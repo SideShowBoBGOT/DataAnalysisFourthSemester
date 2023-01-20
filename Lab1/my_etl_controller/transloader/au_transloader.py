@@ -1,6 +1,7 @@
 import pandas as pd
 from sqlalchemy.engine import Engine
 from my_models.stage_models import AdministrativeUnit
+from my_models.main_models import Base
 from my_models.main_models.administrative_unit import Obl, Region, City, CityRegion, Street
 from . import TransLoader
 
@@ -12,6 +13,9 @@ class AUTransLoader(TransLoader):
         self.df_administrative_unit = pd.read_sql_table(
             AdministrativeUnit.__tablename__, self.stage_engine)
         self.table = {}
+
+    def models(self) -> list[Base]:
+        return [Obl, Region, City, CityRegion, Street]
 
     def transform(self) -> None:
         for i, row in self.df_administrative_unit.iterrows():

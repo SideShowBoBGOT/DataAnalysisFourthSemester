@@ -6,8 +6,7 @@ from my_models import main_models
 
 def main():
     stage_engine = get_stage_engine(False)
-    main_engine = get_main_engine(True)
-    main_models.Base.metadata.create_all(main_engine)
+    main_engine = get_main_engine(False)
     transform_data(stage_engine, main_engine)
 
 if __name__ == '__main__':

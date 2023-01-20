@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sqlalchemy.engine import Engine
+from my_models.main_models import Base
 from my_models.stage_models import CommunalProperty
 from my_models.main_models.communal_property import BalanceKeeper, Component, Property, Structure
 from my_models.main_models.administrative_unit import Street
@@ -17,6 +18,9 @@ class CPTransLoader(TransLoader):
         self.balance_keeper: dict[str, int] = {}
         self.component: dict[str, int] = {}
         self.structure: dict[str, int] = {}
+
+    def models(self) -> list[Base]:
+        return [BalanceKeeper, Component, Property, Structure]
 
     def transform(self) -> None:
         ids = {'bk_id': [1], 'struct_id': [1], 'comp_id': [1]}

@@ -28,6 +28,10 @@ class TITransLoader(TransLoader):
         # brand contains models
         self.brand: dict[str, dict[str, int]] = {}
 
+    def models(self) -> list[Base]:
+        return [Body, Brand, Color, Department, Fuel,
+                Kind, Model, Operation, Purpose, Transport]
+
     def transform_brand_model(self) -> None:
         model_id = 1
         for _, row in self.df_transport_info.iterrows():

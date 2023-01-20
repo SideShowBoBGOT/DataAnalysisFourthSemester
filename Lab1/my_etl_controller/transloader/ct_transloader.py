@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sqlalchemy.engine import Engine
+from my_models.main_models import Base
 from my_models.main_models.transport_info import Transport
 from my_models.main_models.communal_property import Property
 from my_models.main_models.communal_transport import CommunalTransport
@@ -17,10 +18,13 @@ class CTTransLoader(TransLoader):
             Property.__tablename__, self.main_engine)
         self.table: [(int, int)] = []
 
+    def models(self) -> list[Base]:
+        return [CommunalTransport]
+
     def transform(self) -> None:
         property_count = self.main_session.query(Property).count()
-        for trasport_id, _ in self.df_transport.iterrows():
-            self.table.append((trasport_id, np.random.randint(1, property_count)))
+        for _, row in self.df_transport.iterrows():
+            self.table.append((np.random.randint(1, property_count), row[0]))
 
     def load(self):
         self.load_from_list(self.table, CommunalTransport)

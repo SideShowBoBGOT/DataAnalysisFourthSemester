@@ -40,6 +40,14 @@ class TransLoader(ABC):
         self.main_session.commit()
 
     @abstractmethod
+    def models(self) -> list[Base]:
+        pass
+
+    def create_models(self):
+        tables = list(map(lambda x: Base.metadata.tables[x.__tablename__], self.models()))
+        Base.metadata.create_all(bind=self.main_engine, tables=tables)
+
+    @abstractmethod
     def transform(self) -> None:
         pass
 
@@ -48,6 +56,7 @@ class TransLoader(ABC):
         pass
 
     def transload(self) -> None:
+        self.create_models()
         self.transform()
         self.load()
 

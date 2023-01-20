@@ -83,7 +83,3 @@ class AUTransLoader(TransLoader):
         self.load_city()
         self.load_city_region()
         self.load_street()
-
-    def transload(self):
-        self.transform()
-        self.load()

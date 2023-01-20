@@ -1,4 +1,4 @@
-from sqlalchemy import Column, String, Integer, BIGINT, Date, ForeignKey
+from sqlalchemy import Column, String, Integer, Date, ForeignKey
 
 from . import Base, ReprAttributesString, ID_STR, CASCADE
 from .operation import Operation
@@ -14,7 +14,7 @@ from .fuel import Fuel
 class Transport(Base, ReprAttributesString):
     __tablename__ = 'transport'
 
-    def __init__(self, reg_addr_koatuu: int, operation_id: int,
+    def __init__(self, reg_addr_koatuu: str, operation_id: int,
                  d_reg: str, department_id: int, model_id: int, vin: str,
                  make_year: int, color_id: int, kind_id: int, body_id: int,
                  purpose_id: int, fuel_id: int, capacity: int,
@@ -37,7 +37,7 @@ class Transport(Base, ReprAttributesString):
         self.n_reg_new = n_reg_new
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    reg_addr_koatuu = Column(BIGINT)
+    reg_addr_koatuu = Column(String)
     operation_id = Column(Integer, ForeignKey(
         Operation.__tablename__ + ID_STR, ondelete=CASCADE), nullable=False)
     d_reg = Column(Date)

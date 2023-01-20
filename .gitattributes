@@ -1,0 +1,7 @@
+.xls filter=lfs diff=lfs merge=lfs -text
+.xml filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+Lab1/*.csv filter=lfs diff=lfs merge=lfs -text
+Lab1/data_sets/*.csv filter=lfs diff=lfs merge=lfs -text
+Lab1/data_sets/*.xml filter=lfs diff=lfs merge=lfs -text
+Lab1/data_sets/*.xls filter=lfs diff=lfs merge=lfs -text

@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from typing import Any
-
+import datetime as dt
+import string
+import random
 from sqlalchemy import MetaData
 from sqlalchemy.engine import Engine
 from my_models.main_models import Base
@@ -16,6 +18,20 @@ class TransLoader(ABC):
         self.stage_session = get_session(stage_engine)
         self.main_session = get_session(main_engine)
         self.meta = MetaData()
+        self.start_date = dt.date(1863, 1, 1)
+        self.end_date = dt.date(2023, 2, 27)
+
+    @staticmethod
+    def generate_date(start_date: dt.date, end_date: dt.date) -> dt.date:
+        time_between_dates = end_date - start_date
+        days_between_dates = time_between_dates.days
+        random_number_of_days = random.randrange(days_between_dates)
+        random_date = start_date + dt.timedelta(days=random_number_of_days)
+        return random_date
+
+    @staticmethod
+    def names_generator(size=6, chars=string.ascii_uppercase) -> str:
+        return ''.join(random.choice(chars) for _ in range(size))
 
     def update_row_and_latest_id(self, value: str, d: dict[str, int], latest_id_ref: [int]) -> int:
         id = d.get(value)

@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import datetime as dt
 from sqlalchemy.engine import Engine
 from my_models.main_models import Base
 from my_models.stage_models import CommunalProperty
@@ -14,7 +15,7 @@ class CPTransLoader(TransLoader):
         TransLoader.__init__(self, stage_engine, main_engine)
         self.df_communal_property = pd.read_sql_table(
             CommunalProperty.__tablename__, self.stage_engine)
-        self.property: list[tuple[int, int, int, float, float, int, float]] = []
+        self.property: list[tuple[int, int, int, float, float, int, float, dt.date]] = []
         self.balance_keeper: dict[str, int] = {}
         self.component: dict[str, int] = {}
         self.structure: dict[str, int] = {}
@@ -34,8 +35,9 @@ class CPTransLoader(TransLoader):
             comp_id = self.update_row_and_latest_id(
                 components_name, self.component, ids['comp_id'])
             street_id = np.random.randint(1, street_count)
+            rand_date = TransLoader.generate_date(dt.date(1991, 8, 23), self.end_date)
             self.property.append(
-                (bk_id, street_id, struct_id, area, land_area, comp_id, component_area))
+                (bk_id, street_id, struct_id, area, land_area, comp_id, component_area, rand_date))
 
     def load(self) -> None:
         self.load_from_dict(self.balance_keeper, BalanceKeeper)

@@ -1,7 +1,7 @@
 from my_etl_controller import get_main_engine, get_stage_engine, transform_data
 
 def main():
-    stage_engine = get_stage_engine(True)
+    stage_engine = get_stage_engine(False)
     main_engine = get_main_engine(True)
     transform_data(stage_engine, main_engine)
 

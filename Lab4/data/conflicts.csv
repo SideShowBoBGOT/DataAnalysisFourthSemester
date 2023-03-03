@@ -1,0 +1,1594 @@
+id;year;type_of_violence;conflict_name;latitude;longitude;country;region;date_start;date_end
+64991;2011;1;Spain:Basque;43,260919;-2,938764;Spain;Europe;2011-11-07;2011-11-07
+66561;2011;1;United Kingdom:Northern Ireland;54,6;-7,3;United Kingdom;Europe;2011-04-02;2011-04-02
+156154;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-01-17;2011-01-17
+156157;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-01-20;2011-01-20
+156162;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-01-25;2011-01-25
+156259;2011;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2011-03-08;2011-03-08
+156260;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-03-10;2011-03-10
+156261;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-02-20;2011-02-20
+156262;2011;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2011-03-17;2011-03-17
+156263;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-03-22;2011-03-22
+156264;2011;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2011-04-24;2011-05-01
+156265;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-05-11;2011-05-11
+156266;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-05-20;2011-05-20
+156267;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-05-22;2011-05-22
+156268;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-06-03;2011-06-03
+156270;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-07-29;2011-07-29
+156272;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-10-05;2011-10-05
+156273;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-10-05;2011-10-05
+156274;2011;1;Azerbaijan:Nagorno-Karabakh;39,983611;46,928611;Azerbaijan;Europe;2011-10-11;2011-10-11
+156275;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-11-19;2011-11-19
+156276;2011;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2011-11-02;2011-11-02
+156277;2011;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2011-11-26;2011-11-26
+189770;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2684;46,9169;Russia (Soviet Union);Europe;2011-05-26;2011-05-26
+189840;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3058;45,7477;Russia (Soviet Union);Europe;2011-01-01;2011-01-31
+189842;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-01-11;2011-01-14
+189843;2011;3;Forces of the Caucasus Emirate - Civilians;43,7114;44,8061;Russia (Soviet Union);Europe;2011-01-01;2011-05-31
+189844;2011;3;Forces of the Caucasus Emirate - Civilians;43,4976;43,5538;Russia (Soviet Union);Europe;2011-01-03;2011-01-03
+189845;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-01-04;2011-01-04
+189846;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-01-05;2011-01-05
+189847;2011;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2011-01-09;2011-01-09
+189848;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-01-13;2011-01-13
+189850;2011;3;Forces of the Caucasus Emirate - Civilians;43,672;43,4549;Russia (Soviet Union);Europe;2011-01-15;2011-01-15
+189851;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6603;46,7421;Russia (Soviet Union);Europe;2011-01-24;2011-01-27
+189852;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9106;45,5446;Russia (Soviet Union);Europe;2011-01-16;2011-01-16
+189853;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5318;43,5426;Russia (Soviet Union);Europe;2011-01-17;2011-01-17
+189854;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2011-01-19;2011-01-22
+189855;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-01-24;2011-01-27
+189856;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-02-01;2011-02-01
+189857;2011;3;Forces of the Caucasus Emirate - Civilians;55,7558;37,6173;Russia (Soviet Union);Europe;2011-01-24;2011-01-24
+189858;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5318;43,5426;Russia (Soviet Union);Europe;2011-01-28;2011-01-28
+189859;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-01-31;2011-01-31
+189860;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-02-01;2011-02-01
+189861;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1488;45,901;Russia (Soviet Union);Europe;2011-02-15;2011-02-18
+189862;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5671;43,5866;Russia (Soviet Union);Europe;2011-02-02;2011-02-05
+189863;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5671;43,5866;Russia (Soviet Union);Europe;2011-02-02;2011-02-02
+189864;2011;1;Russia (Soviet Union):Caucasus Emirate;44,2269;42,0468;Russia (Soviet Union);Europe;2011-02-04;2011-02-04
+189865;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-02-07;2011-03-01
+189866;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-02-12;2011-02-12
+189867;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-02-07;2011-02-07
+189868;2011;1;Russia (Soviet Union):Caucasus Emirate;41,9886;47,9784;Russia (Soviet Union);Europe;2011-03-13;2011-03-13
+189869;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-02-09;2011-02-09
+189870;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8625;45,756;Russia (Soviet Union);Europe;2011-02-11;2011-02-11
+189871;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2011-02-13;2011-02-13
+189872;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-02-13;2011-02-13
+189873;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-02-19;2011-02-19
+189874;2011;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2011-02-14;2011-02-14
+189875;2011;1;Russia (Soviet Union):Caucasus Emirate;42,5648;47,565;Russia (Soviet Union);Europe;2011-02-14;2011-02-14
+189876;2011;1;Russia (Soviet Union):Caucasus Emirate;44,413;41,9404;Russia (Soviet Union);Europe;2011-02-15;2011-02-15
+189877;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-02-19;2011-02-19
+189878;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-02-20;2011-02-20
+189879;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4639;43,0418;Russia (Soviet Union);Europe;2011-02-22;2011-02-22
+189880;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1488;45,901;Russia (Soviet Union);Europe;2011-02-23;2011-02-23
+189881;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2011-02-23;2011-02-26
+189882;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1264;45,3282;Russia (Soviet Union);Europe;2011-02-25;2011-02-25
+189883;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1264;45,3282;Russia (Soviet Union);Europe;2011-02-26;2011-02-26
+189884;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5671;43,5866;Russia (Soviet Union);Europe;2011-02-28;2011-02-28
+189885;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-03-01;2011-03-03
+189886;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3476;44,702;Russia (Soviet Union);Europe;2011-03-07;2011-03-07
+189887;2011;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2011-03-02;2011-03-02
+189888;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-03-04;2011-03-04
+189889;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5755;44,0592;Russia (Soviet Union);Europe;2011-03-05;2011-03-05
+189890;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-03-08;2011-03-08
+189891;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5301;43,5626;Russia (Soviet Union);Europe;2011-03-10;2011-03-10
+189892;2011;1;Russia (Soviet Union):Caucasus Emirate;42,6879;46,8709;Russia (Soviet Union);Europe;2011-03-15;2011-03-15
+189893;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-03-16;2011-03-16
+189894;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-03-29;2011-04-01
+189895;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-03-19;2011-03-19
+189896;2011;1;Russia (Soviet Union):Caucasus Emirate;43,0975;45,468;Russia (Soviet Union);Europe;2011-03-22;2011-03-25
+189897;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1627;45,201;Russia (Soviet Union);Europe;2011-07-27;2011-07-27
+189898;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-03-28;2011-03-28
+189899;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3476;44,702;Russia (Soviet Union);Europe;2011-03-28;2011-03-28
+189900;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3476;44,702;Russia (Soviet Union);Europe;2011-03-28;2011-03-28
+189901;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3476;44,702;Russia (Soviet Union);Europe;2011-03-30;2011-03-30
+189902;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-03-31;2011-03-31
+189903;2011;1;Russia (Soviet Union):Caucasus Emirate;43,208;46,6895;Russia (Soviet Union);Europe;2011-07-06;2011-07-06
+189904;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3476;44,702;Russia (Soviet Union);Europe;2011-03-30;2011-03-30
+189905;2011;1;Russia (Soviet Union):Caucasus Emirate;42,7443;46,0617;Russia (Soviet Union);Europe;2011-04-08;2011-04-08
+189906;2011;3;Forces of the Caucasus Emirate - Civilians;44,0203;42,7536;Russia (Soviet Union);Europe;2011-04-08;2011-04-08
+189907;2011;1;Russia (Soviet Union):Caucasus Emirate;43,65;45,31;Russia (Soviet Union);Europe;2011-04-09;2011-04-12
+189908;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-04-14;2011-04-14
+189909;2011;1;Russia (Soviet Union):Caucasus Emirate;43,0273;44,9949;Russia (Soviet Union);Europe;2011-04-11;2011-04-11
+189910;2011;1;Russia (Soviet Union):Caucasus Emirate;42,1941;45,9551;Russia (Soviet Union);Europe;2011-04-11;2011-04-11
+189911;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1371;45,0893;Russia (Soviet Union);Europe;2011-04-14;2011-04-14
+189912;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9526;46,0671;Russia (Soviet Union);Europe;2011-06-29;2011-07-02
+189913;2011;1;Russia (Soviet Union):Caucasus Emirate;42,408;47,1717;Russia (Soviet Union);Europe;2011-04-15;2011-04-18
+189914;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8625;45,756;Russia (Soviet Union);Europe;2011-04-18;2011-04-18
+189915;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-04-19;2011-04-19
+189916;2011;1;Russia (Soviet Union):Caucasus Emirate;44,4974;40,1367;Russia (Soviet Union);Europe;2011-04-22;2011-04-22
+189917;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1445;45,903;Russia (Soviet Union);Europe;2011-04-21;2011-04-21
+189918;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-04-24;2011-04-24
+189919;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-04-27;2011-04-27
+189920;2011;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2011-04-25;2011-04-25
+189921;2011;1;Russia (Soviet Union):Caucasus Emirate;42,5616;46,1739;Russia (Soviet Union);Europe;2011-04-25;2011-04-25
+189922;2011;1;Russia (Soviet Union):Caucasus Emirate;42,5616;46,1739;Russia (Soviet Union);Europe;2011-04-27;2011-04-27
+189923;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-05-24;2011-05-24
+189924;2011;1;Russia (Soviet Union):Caucasus Emirate;42,489312;46,051479;Russia (Soviet Union);Europe;2011-04-28;2011-04-28
+189925;2011;1;Russia (Soviet Union):Caucasus Emirate;44,4974;40,1367;Russia (Soviet Union);Europe;2011-04-28;2011-04-28
+189926;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-04-28;2011-04-28
+189927;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9248;43,89662;Russia (Soviet Union);Europe;2011-04-29;2011-04-29
+189928;2011;1;Russia (Soviet Union):Caucasus Emirate;42,4543;47,6629;Russia (Soviet Union);Europe;2011-05-01;2011-05-01
+189929;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9526;46,0671;Russia (Soviet Union);Europe;2011-05-02;2011-05-02
+189930;2011;1;Russia (Soviet Union):Caucasus Emirate;43,8485;46,7233;Russia (Soviet Union);Europe;2011-05-03;2011-05-03
+189931;2011;1;Russia (Soviet Union):Caucasus Emirate;42,3741;47,655;Russia (Soviet Union);Europe;2011-05-04;2011-05-04
+189932;2011;1;Russia (Soviet Union):Caucasus Emirate;42,330562;47,637895;Russia (Soviet Union);Europe;2011-05-04;2011-05-04
+189933;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-05-24;2011-05-24
+189934;2011;1;Russia (Soviet Union):Caucasus Emirate;43,943;47,0304;Russia (Soviet Union);Europe;2011-05-06;2011-05-06
+189935;2011;1;Russia (Soviet Union):Caucasus Emirate;42,5651;47,8711;Russia (Soviet Union);Europe;2011-05-06;2011-05-09
+189936;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-05-08;2011-05-08
+189937;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2011-05-08;2011-05-08
+189938;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8496;47,6269;Russia (Soviet Union);Europe;2011-05-09;2011-05-12
+189939;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-05-10;2011-05-10
+189940;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-05-10;2011-05-10
+189941;2011;1;Russia (Soviet Union):Caucasus Emirate;42,6185;47,2582;Russia (Soviet Union);Europe;2011-05-12;2011-05-12
+189942;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-05-21;2011-05-21
+189943;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9106;45,5446;Russia (Soviet Union);Europe;2011-05-21;2011-05-21
+189944;2011;1;Russia (Soviet Union):Caucasus Emirate;42,6099;47,5894;Russia (Soviet Union);Europe;2011-05-24;2011-05-27
+189945;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-05-21;2011-05-24
+189946;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4;42,916667;Russia (Soviet Union);Europe;2011-05-21;2011-05-21
+189947;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-05-22;2011-05-22
+189948;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3036;46,8597;Russia (Soviet Union);Europe;2011-05-27;2011-05-27
+189949;2011;1;Russia (Soviet Union):Caucasus Emirate;42,708;47,613;Russia (Soviet Union);Europe;2011-05-28;2011-05-28
+189950;2011;1;Russia (Soviet Union):Caucasus Emirate;43,8485;46,7233;Russia (Soviet Union);Europe;2011-05-29;2011-05-29
+189951;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-05-29;2011-05-29
+189952;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-05-30;2011-05-30
+189953;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1199;44,4291;Russia (Soviet Union);Europe;2011-06-01;2011-06-01
+189954;2011;3;Government of Russia (Soviet Union) - Civilians;43,214453;46,043289;Russia (Soviet Union);Europe;2011-06-01;2011-08-22
+189955;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-06-03;2011-06-03
+189956;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1217;45,4801;Russia (Soviet Union);Europe;2011-06-03;2011-06-06
+189957;2011;1;Russia (Soviet Union):Caucasus Emirate;43,8485;46,7233;Russia (Soviet Union);Europe;2011-06-04;2011-06-04
+189958;2011;1;Russia (Soviet Union):Caucasus Emirate;42,171;48,1245;Russia (Soviet Union);Europe;2011-06-05;2011-06-05
+189959;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-06-06;2011-06-06
+189960;2011;1;Russia (Soviet Union):Caucasus Emirate;42,7244;47,6818;Russia (Soviet Union);Europe;2011-06-07;2011-06-10
+189961;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-06-20;2011-06-20
+189962;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1217;45,4801;Russia (Soviet Union);Europe;2011-06-21;2011-06-21
+189963;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2784;42,6884;Russia (Soviet Union);Europe;2011-06-07;2011-06-10
+189965;2011;3;Forces of the Caucasus Emirate - Civilians;55,7558;37,6173;Russia (Soviet Union);Europe;2011-06-10;2011-06-10
+189966;2011;1;Russia (Soviet Union):Caucasus Emirate;43,218;45,1342;Russia (Soviet Union);Europe;2011-06-11;2011-06-11
+189967;2011;1;Russia (Soviet Union):Caucasus Emirate;42,3741;47,655;Russia (Soviet Union);Europe;2011-06-17;2011-06-20
+189968;2011;1;Russia (Soviet Union):Caucasus Emirate;43,0975;45,468;Russia (Soviet Union);Europe;2011-06-19;2011-06-19
+189969;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-06-13;2011-06-13
+189970;2011;3;Forces of the Caucasus Emirate - Civilians;43,05096;47,290423;Russia (Soviet Union);Europe;2011-06-14;2011-06-14
+189971;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-06-16;2011-06-19
+189972;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2962;46,7276;Russia (Soviet Union);Europe;2011-06-17;2011-06-17
+189973;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2011-06-21;2011-06-21
+189974;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2011-06-22;2011-06-22
+189975;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3982;42,9214;Russia (Soviet Union);Europe;2011-06-23;2011-06-23
+189976;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4;42,916667;Russia (Soviet Union);Europe;2011-06-26;2011-06-26
+189977;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-06-26;2011-06-26
+189978;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2011-06-24;2011-06-24
+189979;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2011-06-29;2011-06-29
+189980;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4879;44,5895;Russia (Soviet Union);Europe;2011-07-04;2011-07-06
+189981;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5671;43,5866;Russia (Soviet Union);Europe;2011-07-04;2011-07-06
+189982;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4052;44,8203;Russia (Soviet Union);Europe;2011-07-05;2011-07-05
+189983;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5577;43,8576;Russia (Soviet Union);Europe;2011-07-06;2011-07-06
+189984;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-07-06;2011-07-06
+189985;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9799;46,8334;Russia (Soviet Union);Europe;2011-07-06;2011-07-07
+189986;2011;1;Russia (Soviet Union):Caucasus Emirate;42,4543;47,6629;Russia (Soviet Union);Europe;2011-07-08;2011-07-08
+189987;2011;3;Forces of the Caucasus Emirate - Civilians;45,5407;38,7864;Russia (Soviet Union);Europe;2011-07-09;2011-07-09
+189988;2011;1;Russia (Soviet Union):Caucasus Emirate;43,0808;44,9843;Russia (Soviet Union);Europe;2011-07-12;2011-07-12
+189989;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9059;46,1377;Russia (Soviet Union);Europe;2011-07-13;2011-07-18
+189990;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-07-14;2011-07-14
+189991;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-07-14;2011-07-14
+189992;2011;1;Russia (Soviet Union):Caucasus Emirate;42,489312;46,051479;Russia (Soviet Union);Europe;2011-07-16;2011-07-16
+189993;2011;1;Russia (Soviet Union):Caucasus Emirate;42,1262;48,0653;Russia (Soviet Union);Europe;2011-07-16;2011-07-16
+189994;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-07-27;2011-07-27
+189995;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1217;45,4801;Russia (Soviet Union);Europe;2011-07-17;2011-07-17
+189996;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-07-26;2011-07-26
+189997;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-07-18;2011-07-18
+189998;2011;1;Russia (Soviet Union):Caucasus Emirate;42,1927;46,3212;Russia (Soviet Union);Europe;2011-07-18;2011-07-18
+189999;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2386;45,1714;Russia (Soviet Union);Europe;2011-07-24;2011-07-27
+190000;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-07-21;2011-07-21
+190001;2011;1;Russia (Soviet Union):Caucasus Emirate;42,1152;48,1939;Russia (Soviet Union);Europe;2011-07-24;2011-07-24
+190002;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-07-28;2011-07-28
+190003;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-07-30;2011-07-30
+190004;2011;1;Russia (Soviet Union):Caucasus Emirate;43,5577;43,8576;Russia (Soviet Union);Europe;2011-08-02;2011-08-02
+190005;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-08-04;2011-08-04
+190006;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-08-05;2011-08-05
+190007;2011;1;Russia (Soviet Union):Caucasus Emirate;42,5651;47,8711;Russia (Soviet Union);Europe;2011-08-05;2011-08-05
+190008;2011;1;Russia (Soviet Union):Caucasus Emirate;43,187861;44,746127;Russia (Soviet Union);Europe;2011-08-15;2011-08-15
+190009;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6571;43,5316;Russia (Soviet Union);Europe;2011-08-05;2011-08-05
+190010;2011;1;Russia (Soviet Union):Caucasus Emirate;42,195556;45,891667;Russia (Soviet Union);Europe;2011-08-08;2011-08-11
+190011;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-08-11;2011-08-11
+190012;2011;1;Russia (Soviet Union):Caucasus Emirate;42,6203;47,2884;Russia (Soviet Union);Europe;2011-08-09;2011-08-09
+190013;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-08-12;2011-08-12
+190014;2011;1;Russia (Soviet Union):Caucasus Emirate;43,316667;45,683333;Russia (Soviet Union);Europe;2011-08-15;2011-08-18
+190015;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-08-15;2011-08-16
+190016;2011;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2011-08-15;2011-08-18
+190017;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-08-16;2011-08-16
+190018;2011;1;Russia (Soviet Union):Caucasus Emirate;42,18888;45,9786;Russia (Soviet Union);Europe;2011-09-17;2011-09-17
+190019;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-08-18;2011-08-18
+190020;2011;1;Russia (Soviet Union):Caucasus Emirate;43,7155;43,9009;Russia (Soviet Union);Europe;2011-08-16;2011-08-16
+190021;2011;1;Russia (Soviet Union):Caucasus Emirate;43,208;46,6895;Russia (Soviet Union);Europe;2011-08-17;2011-08-17
+190022;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6468;43,3969;Russia (Soviet Union);Europe;2011-08-23;2011-08-26
+190023;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-09-17;2011-09-17
+190024;2011;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2011-08-26;2011-08-26
+190025;2011;1;Russia (Soviet Union):Caucasus Emirate;42,0626;48,2548;Russia (Soviet Union);Europe;2011-08-26;2011-08-26
+190026;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-08-26;2011-08-26
+190027;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-09-18;2011-09-18
+190028;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-08-31;2011-08-31
+190029;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3204;45,0477;Russia (Soviet Union);Europe;2011-08-27;2011-08-30
+190030;2011;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2011-08-30;2011-08-30
+190031;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-09-01;2011-09-01
+190032;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6621;43,944;Russia (Soviet Union);Europe;2011-09-07;2011-09-07
+190033;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2011-09-01;2011-09-04
+190034;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6012;46,7792;Russia (Soviet Union);Europe;2011-09-18;2011-09-18
+190035;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2011-09-03;2011-09-03
+190036;2011;1;Russia (Soviet Union):Caucasus Emirate;43,7587;44,0109;Russia (Soviet Union);Europe;2011-09-07;2011-09-07
+190037;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1911;44,8279;Russia (Soviet Union);Europe;2011-09-08;2011-09-08
+190038;2011;3;Forces of the Caucasus Emirate - Civilians;42,18888;45,9786;Russia (Soviet Union);Europe;2011-09-11;2011-09-11
+190040;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4639;43,0418;Russia (Soviet Union);Europe;2011-09-20;2011-09-20
+190041;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-09-21;2011-09-21
+190042;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1636;46,5225;Russia (Soviet Union);Europe;2011-09-22;2011-09-22
+190043;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-09-22;2011-09-22
+190044;2011;1;Russia (Soviet Union):Caucasus Emirate;42,4166;47,1774;Russia (Soviet Union);Europe;2011-09-28;2011-09-28
+190045;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2011-09-30;2011-10-02
+190046;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-10-01;2011-10-01
+190047;2011;1;Russia (Soviet Union):Caucasus Emirate;42,383333;47,983333;Russia (Soviet Union);Europe;2011-10-16;2011-10-19
+190048;2011;1;Russia (Soviet Union):Caucasus Emirate;42,224103;45,859951;Russia (Soviet Union);Europe;2011-10-27;2011-10-27
+190049;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3204;45,0477;Russia (Soviet Union);Europe;2011-11-19;2011-11-19
+190050;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3982;42,9214;Russia (Soviet Union);Europe;2011-10-04;2011-10-08
+190051;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2011-10-05;2011-10-05
+190052;2011;1;Russia (Soviet Union):Caucasus Emirate;43,0952;45,3586;Russia (Soviet Union);Europe;2011-10-10;2011-10-13
+190053;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2386;45,1714;Russia (Soviet Union);Europe;2011-10-15;2011-10-18
+190054;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9759;45,7127;Russia (Soviet Union);Europe;2011-10-25;2011-10-25
+190055;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2962;46,7276;Russia (Soviet Union);Europe;2011-10-27;2011-10-28
+190056;2011;1;Russia (Soviet Union):Caucasus Emirate;43,6012;46,7792;Russia (Soviet Union);Europe;2011-10-28;2011-11-01
+190057;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1371;45,0893;Russia (Soviet Union);Europe;2011-10-27;2011-10-30
+190058;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9799;46,8334;Russia (Soviet Union);Europe;2011-10-30;2011-10-30
+190059;2011;1;Russia (Soviet Union):Caucasus Emirate;41,8071;47,9019;Russia (Soviet Union);Europe;2011-11-02;2011-11-02
+190060;2011;1;Russia (Soviet Union):Caucasus Emirate;43,8138;46,5906;Russia (Soviet Union);Europe;2011-11-08;2011-11-08
+190061;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-11-08;2011-11-08
+190063;2011;1;Russia (Soviet Union):Caucasus Emirate;43,0203;45,8935;Russia (Soviet Union);Europe;2011-11-09;2011-11-12
+190064;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-11-11;2011-11-14
+190065;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3982;42,9214;Russia (Soviet Union);Europe;2011-11-13;2011-11-13
+190066;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-11-14;2011-11-14
+190067;2011;1;Russia (Soviet Union):Caucasus Emirate;43,1445;45,903;Russia (Soviet Union);Europe;2011-11-16;2011-11-16
+190068;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9106;45,5446;Russia (Soviet Union);Europe;2011-11-17;2011-11-20
+190070;2011;1;Russia (Soviet Union):Caucasus Emirate;44,2269;42,0468;Russia (Soviet Union);Europe;2011-11-21;2011-11-24
+190071;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2011-11-21;2011-11-21
+190072;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2011-11-30;2011-12-02
+190073;2011;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2011-12-08;2011-12-08
+190074;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3543;46,6442;Russia (Soviet Union);Europe;2011-12-10;2011-12-13
+190075;2011;1;Russia (Soviet Union):Caucasus Emirate;43,672;43,4549;Russia (Soviet Union);Europe;2011-12-12;2011-12-12
+190076;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2313;46,6467;Russia (Soviet Union);Europe;2011-12-12;2011-12-12
+190077;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-12-14;2011-12-14
+190078;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3932;43,5629;Russia (Soviet Union);Europe;2011-12-14;2011-12-14
+190079;2011;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2011-12-17;2011-12-17
+190080;2011;1;Russia (Soviet Union):Caucasus Emirate;43,939;42,5155;Russia (Soviet Union);Europe;2011-12-19;2011-12-19
+190081;2011;1;Russia (Soviet Union):Caucasus Emirate;44,6681;43,5202;Russia (Soviet Union);Europe;2011-12-20;2011-12-23
+190082;2011;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2011-12-26;2011-12-29
+190337;2011;1;Russia (Soviet Union):Caucasus Emirate;43,3806;45,8286;Russia (Soviet Union);Europe;2011-01-14;2011-01-17
+190340;2011;1;Russia (Soviet Union):Caucasus Emirate;43,4879;44,5895;Russia (Soviet Union);Europe;2011-08-18;2011-08-18
+190341;2011;1;Russia (Soviet Union):Caucasus Emirate;43,2911;45,3014;Russia (Soviet Union);Europe;2011-09-08;2011-09-08
+197414;2011;1;Georgia:Abkhazia;43;41,5;Georgia;Europe;2011-04-08;2011-04-08
+108157;2012;3;al-Qaida  - Civilians;43,599516;1,433188;France;Europe;2012-03-20;2012-03-20
+156341;2012;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2012-02-04;2012-02-04
+156345;2012;1;Azerbaijan:Nagorno-Karabakh;40,916667;45,166667;Armenia;Europe;2012-02-23;2012-02-23
+156346;2012;1;Azerbaijan:Nagorno-Karabakh;41,26;45,09;Azerbaijan;Europe;2012-03-03;2012-03-03
+156347;2012;1;Azerbaijan:Nagorno-Karabakh;40,916667;45,166667;Armenia;Europe;2012-03-19;2012-03-19
+156358;2012;1;Azerbaijan:Nagorno-Karabakh;40,916667;45,166667;Armenia;Europe;2012-04-26;2012-04-26
+156359;2012;1;Azerbaijan:Nagorno-Karabakh;39,983611;46,928611;Azerbaijan;Europe;2012-04-26;2012-04-26
+156361;2012;1;Azerbaijan:Nagorno-Karabakh;40,916667;45,166667;Armenia;Europe;2012-03-01;2012-03-01
+156362;2012;1;Azerbaijan:Nagorno-Karabakh;40,916667;45,166667;Armenia;Europe;2012-06-04;2012-06-04
+156363;2012;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2012-06-05;2012-06-05
+156364;2012;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2012-06-06;2012-06-06
+156367;2012;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2012-06-16;2012-06-16
+156372;2012;1;Azerbaijan:Nagorno-Karabakh;39,337716;45,482023;Azerbaijan;Europe;2012-07-13;2012-07-13
+156373;2012;1;Azerbaijan:Nagorno-Karabakh;40,94001;45,48895;Azerbaijan;Europe;2012-07-20;2012-07-20
+156376;2012;1;Azerbaijan:Nagorno-Karabakh;39,983611;46,928611;Azerbaijan;Europe;2012-08-11;2012-08-13
+156379;2012;1;Azerbaijan:Nagorno-Karabakh;40,333333;46,916667;Azerbaijan;Europe;2012-08-29;2012-08-29
+156380;2012;1;Azerbaijan:Nagorno-Karabakh;39,58333;47,33333;Azerbaijan;Europe;2012-08-30;2012-08-30
+156381;2012;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2012-09-25;2012-09-25
+188791;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-06-25;2012-06-26
+188809;2012;1;Russia (Soviet Union):Caucasus Emirate;44,5517;44,8317;Russia (Soviet Union);Europe;2012-04-10;2012-04-10
+188811;2012;1;Russia (Soviet Union):Caucasus Emirate;42,2363;48,0406;Russia (Soviet Union);Europe;2012-03-24;2012-03-24
+188827;2012;1;Russia (Soviet Union):Caucasus Emirate;42,4078;47,7517;Russia (Soviet Union);Europe;2012-05-12;2012-05-12
+188871;2012;3;Forces of the Caucasus Emirate - Civilians;55,8304;49,0661;Russia (Soviet Union);Europe;2012-07-19;2012-07-19
+189149;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-05-15;2012-05-15
+189586;2012;1;Russia (Soviet Union):Caucasus Emirate;43,561139;43,207283;Russia (Soviet Union);Europe;2012-05-18;2012-05-18
+189666;2012;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2012-08-06;2012-08-06
+190062;2012;1;Russia (Soviet Union):Caucasus Emirate;44,1084;46,9175;Russia (Soviet Union);Europe;2012-01-11;2012-01-13
+190084;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2012-01-01;2012-03-31
+190085;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2012-01-01;2012-04-30
+190086;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2012-01-01;2012-07-04
+190087;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3058;45,7477;Russia (Soviet Union);Europe;2012-01-01;2012-07-24
+190089;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9801;46,1832;Russia (Soviet Union);Europe;2012-01-08;2012-01-08
+190091;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2012-01-01;2012-11-26
+190092;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2012-01-01;2012-12-18
+190094;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7587;44,0109;Russia (Soviet Union);Europe;2012-01-11;2012-01-13
+190095;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-01-07;2012-01-07
+190096;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9801;46,1832;Russia (Soviet Union);Europe;2012-01-08;2012-01-09
+190097;2012;1;Russia (Soviet Union):Caucasus Emirate;43,646;43,3803;Russia (Soviet Union);Europe;2012-01-09;2012-01-09
+190098;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3932;43,5629;Russia (Soviet Union);Europe;2012-01-09;2012-01-09
+190099;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2215;46,9363;Russia (Soviet Union);Europe;2012-01-09;2012-01-11
+190100;2012;1;Russia (Soviet Union):Caucasus Emirate;44,1084;46,9175;Russia (Soviet Union);Europe;2012-01-09;2012-01-09
+190101;2012;1;Russia (Soviet Union):Caucasus Emirate;43,208;46,6895;Russia (Soviet Union);Europe;2012-01-20;2012-01-20
+190102;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1518;44,7115;Russia (Soviet Union);Europe;2012-01-11;2012-01-11
+190103;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-01-26;2012-01-26
+190104;2012;1;Russia (Soviet Union):Caucasus Emirate;43,943;47,0304;Russia (Soviet Union);Europe;2012-01-27;2012-01-27
+190105;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1911;44,8279;Russia (Soviet Union);Europe;2012-01-27;2012-01-27
+190107;2012;1;Russia (Soviet Union):Caucasus Emirate;43,385241;46,585497;Russia (Soviet Union);Europe;2012-03-18;2012-03-18
+190109;2012;1;Russia (Soviet Union):Caucasus Emirate;43,22;47,25;Russia (Soviet Union);Europe;2012-01-27;2012-01-27
+190110;2012;3;Forces of the Caucasus Emirate - Civilians;42,9849;47,5046;Russia (Soviet Union);Europe;2012-01-28;2012-01-28
+190111;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-02-07;2012-02-07
+190112;2012;1;Russia (Soviet Union):Caucasus Emirate;42,6099;47,5894;Russia (Soviet Union);Europe;2012-02-10;2012-02-10
+190113;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2678;46,7297;Russia (Soviet Union);Europe;2012-03-02;2012-03-02
+190114;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8496;47,6269;Russia (Soviet Union);Europe;2012-02-12;2012-02-17
+190115;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8496;47,6269;Russia (Soviet Union);Europe;2012-02-12;2012-02-18
+190116;2012;1;Russia (Soviet Union):Caucasus Emirate;43,646;43,3803;Russia (Soviet Union);Europe;2012-03-16;2012-03-16
+190118;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8496;47,6269;Russia (Soviet Union);Europe;2012-02-16;2012-02-16
+190120;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5577;43,8576;Russia (Soviet Union);Europe;2012-02-16;2012-02-16
+190121;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2678;46,7297;Russia (Soviet Union);Europe;2012-02-16;2012-02-16
+190122;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5577;43,8576;Russia (Soviet Union);Europe;2012-02-17;2012-02-17
+190123;2012;1;Russia (Soviet Union):Caucasus Emirate;55,5498;36,2976;Russia (Soviet Union);Europe;2012-03-12;2012-03-12
+190124;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8625;45,756;Russia (Soviet Union);Europe;2012-08-13;2012-08-14
+190125;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8496;47,6269;Russia (Soviet Union);Europe;2012-02-17;2012-02-17
+190128;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-02-27;2012-02-27
+190130;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2012-03-01;2012-03-31
+190131;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4335;43,5762;Russia (Soviet Union);Europe;2012-04-04;2012-04-04
+190132;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-03-02;2012-03-02
+190133;2012;1;Russia (Soviet Union):Caucasus Emirate;42,7101;47,5652;Russia (Soviet Union);Europe;2012-03-06;2012-03-06
+190134;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5096;44,5902;Russia (Soviet Union);Europe;2012-03-03;2012-03-03
+190135;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0568;44,748;Russia (Soviet Union);Europe;2012-03-04;2012-03-04
+190136;2012;1;Russia (Soviet Union):Caucasus Emirate;42,5616;46,1739;Russia (Soviet Union);Europe;2012-04-18;2012-04-18
+190138;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-03-11;2012-03-11
+190139;2012;3;Government of Russia (Soviet Union) - Civilians;55,7558;37,6173;Russia (Soviet Union);Europe;2012-03-18;2012-03-18
+190140;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0568;44,748;Russia (Soviet Union);Europe;2012-03-23;2012-03-23
+190142;2012;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2012-03-24;2012-03-24
+190143;2012;1;Russia (Soviet Union):Caucasus Emirate;44,6681;43,5202;Russia (Soviet Union);Europe;2012-04-10;2012-04-10
+190144;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-03-27;2012-03-27
+190145;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-04-11;2012-04-11
+190146;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-03-29;2012-03-29
+190147;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-03-30;2012-03-30
+190148;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-03-31;2012-03-31
+190149;2012;1;Russia (Soviet Union):Caucasus Emirate;42,4971;47,6061;Russia (Soviet Union);Europe;2012-04-01;2012-04-03
+190150;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2012-04-03;2012-04-03
+190151;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-04-05;2012-04-05
+190152;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-04-06;2012-04-06
+190153;2012;1;Russia (Soviet Union):Caucasus Emirate;44,2117;43,1239;Russia (Soviet Union);Europe;2012-04-10;2012-04-10
+190154;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2962;46,7276;Russia (Soviet Union);Europe;2012-04-06;2012-04-06
+190155;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-04-08;2012-04-08
+190156;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3058;45,7477;Russia (Soviet Union);Europe;2012-04-08;2012-04-08
+190158;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-04-22;2012-04-22
+190160;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-04-16;2012-04-16
+190161;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-04-16;2012-04-16
+190162;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3543;46,6442;Russia (Soviet Union);Europe;2012-04-17;2012-04-18
+190163;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-08-14;2012-08-14
+190164;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-04-19;2012-04-19
+190165;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-04-20;2012-04-20
+190166;2012;1;Russia (Soviet Union):Caucasus Emirate;42,5651;47,8711;Russia (Soviet Union);Europe;2012-04-20;2012-04-20
+190168;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2914;46,412;Russia (Soviet Union);Europe;2012-04-22;2012-04-22
+190169;2012;1;Russia (Soviet Union):Caucasus Emirate;42,632;47,4351;Russia (Soviet Union);Europe;2012-04-22;2012-04-22
+190170;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2012-04-22;2012-04-22
+190171;2012;1;Russia (Soviet Union):Caucasus Emirate;42,708;47,613;Russia (Soviet Union);Europe;2012-04-23;2012-04-23
+190172;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-04-24;2012-04-24
+190173;2012;1;Russia (Soviet Union):Caucasus Emirate;42,632;47,4351;Russia (Soviet Union);Europe;2012-04-25;2012-04-25
+190174;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5096;44,5902;Russia (Soviet Union);Europe;2012-04-28;2012-04-28
+190175;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-05-04;2012-05-04
+190176;2012;1;Russia (Soviet Union):Caucasus Emirate;43,9384;46,8337;Russia (Soviet Union);Europe;2012-05-10;2012-05-14
+190177;2012;3;Forces of the Caucasus Emirate - Civilians;42,6185;47,2582;Russia (Soviet Union);Europe;2012-04-28;2012-04-29
+190178;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2012-05-06;2012-05-06
+190179;2012;1;Russia (Soviet Union):Caucasus Emirate;42,5651;47,8711;Russia (Soviet Union);Europe;2012-05-09;2012-05-09
+190180;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-05-19;2012-05-19
+190181;2012;1;Russia (Soviet Union):Caucasus Emirate;43,222;46,4136;Russia (Soviet Union);Europe;2012-05-19;2012-05-19
+190182;2012;1;Russia (Soviet Union):Caucasus Emirate;44,087;42,9512;Russia (Soviet Union);Europe;2012-05-20;2012-05-20
+190183;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-05-21;2012-05-22
+190185;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0318;45,2623;Russia (Soviet Union);Europe;2012-05-24;2012-05-24
+190186;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0273;44,9949;Russia (Soviet Union);Europe;2012-05-24;2012-05-24
+190187;2012;1;Russia (Soviet Union):Caucasus Emirate;43,395;45,3032;Russia (Soviet Union);Europe;2012-05-26;2012-05-26
+190188;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7171;43,5246;Russia (Soviet Union);Europe;2012-05-28;2012-05-28
+190189;2012;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2012-05-30;2012-05-30
+190190;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-05-30;2012-06-01
+190193;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-06-01;2012-06-01
+190194;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-06-01;2012-06-01
+190195;2012;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2012-06-02;2012-06-02
+190196;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2012-06-06;2012-06-06
+190197;2012;1;Russia (Soviet Union):Caucasus Emirate;44,6602;45,65;Russia (Soviet Union);Europe;2012-06-08;2012-06-08
+190198;2012;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2012-06-09;2012-06-10
+190199;2012;1;Russia (Soviet Union):Caucasus Emirate;43,9385;42,482;Russia (Soviet Union);Europe;2012-06-13;2012-06-13
+190200;2012;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2012-06-15;2012-06-15
+190201;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-06-21;2012-06-21
+190202;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9682;46,2423;Russia (Soviet Union);Europe;2012-06-22;2012-06-22
+190205;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-06-29;2012-06-29
+190206;2012;1;Russia (Soviet Union):Caucasus Emirate;41,961874;47,9166;Russia (Soviet Union);Europe;2012-06-26;2012-06-26
+190207;2012;1;Russia (Soviet Union):Caucasus Emirate;42,5616;46,1739;Russia (Soviet Union);Europe;2012-06-26;2012-06-27
+190208;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3204;45,0477;Russia (Soviet Union);Europe;2012-06-27;2012-06-27
+190209;2012;1;Russia (Soviet Union):Caucasus Emirate;41,9491;47,9477;Russia (Soviet Union);Europe;2012-06-27;2012-06-27
+190210;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2012-06-28;2012-06-28
+190211;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5577;43,8576;Russia (Soviet Union);Europe;2012-06-29;2012-06-29
+190212;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-07-03;2012-07-03
+190213;2012;1;Russia (Soviet Union):Caucasus Emirate;43,9021;46,6805;Russia (Soviet Union);Europe;2012-07-03;2012-07-03
+190214;2012;1;Russia (Soviet Union):Caucasus Emirate;42,4078;47,7517;Russia (Soviet Union);Europe;2012-07-13;2012-07-13
+190215;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-07-04;2012-07-04
+190216;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2012-07-04;2012-07-04
+190217;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-07-04;2012-07-04
+190218;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-07-06;2012-07-06
+190219;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-07-06;2012-07-07
+190220;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7171;43,5246;Russia (Soviet Union);Europe;2012-07-06;2012-07-07
+190221;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7752;43,4462;Russia (Soviet Union);Europe;2012-07-07;2012-07-07
+190222;2012;1;Russia (Soviet Union):Caucasus Emirate;42,6306;47,2983;Russia (Soviet Union);Europe;2012-07-10;2012-07-10
+190223;2012;1;Russia (Soviet Union):Caucasus Emirate;43,8588;44,7907;Russia (Soviet Union);Europe;2012-07-11;2012-07-11
+190224;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1911;44,8279;Russia (Soviet Union);Europe;2012-07-12;2012-07-12
+190225;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0411;46,1602;Russia (Soviet Union);Europe;2012-07-12;2012-07-13
+190226;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-07-16;2012-07-16
+190227;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-07-13;2012-07-13
+190228;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-07-17;2012-07-17
+190229;2012;1;Russia (Soviet Union):Caucasus Emirate;41,9242;48,0284;Russia (Soviet Union);Europe;2012-07-17;2012-07-17
+190230;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3543;46,6442;Russia (Soviet Union);Europe;2012-07-17;2012-07-17
+190232;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8916;47,6367;Russia (Soviet Union);Europe;2012-08-05;2012-08-05
+190233;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-07-18;2012-07-18
+190234;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0309;45,1003;Russia (Soviet Union);Europe;2012-07-21;2012-07-21
+190235;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-07-21;2012-07-21
+190236;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4335;43,5762;Russia (Soviet Union);Europe;2012-08-05;2012-08-06
+190237;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3432;46,8512;Russia (Soviet Union);Europe;2012-07-24;2012-07-24
+190238;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3932;43,5629;Russia (Soviet Union);Europe;2012-07-26;2012-07-26
+190239;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-07-27;2012-07-27
+190240;2012;1;Russia (Soviet Union):Caucasus Emirate;43,975;47,7153;Russia (Soviet Union);Europe;2012-07-27;2012-07-27
+190241;2012;1;Russia (Soviet Union):Caucasus Emirate;42,2635;45,9055;Russia (Soviet Union);Europe;2012-08-06;2012-08-06
+190242;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3204;45,0477;Russia (Soviet Union);Europe;2012-07-28;2012-07-28
+190243;2012;1;Russia (Soviet Union):Caucasus Emirate;42,0407;48,2002;Russia (Soviet Union);Europe;2012-07-29;2012-07-30
+190244;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0808;44,9843;Russia (Soviet Union);Europe;2012-07-29;2012-07-29
+190245;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-08-02;2012-08-02
+190246;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3715;43,6529;Russia (Soviet Union);Europe;2012-08-06;2012-08-07
+190247;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5096;44,5902;Russia (Soviet Union);Europe;2012-08-19;2012-08-19
+190248;2012;1;Russia (Soviet Union):Caucasus Emirate;42,7181;46,2463;Russia (Soviet Union);Europe;2012-08-09;2012-08-09
+190249;2012;1;Russia (Soviet Union):Caucasus Emirate;42,0222;48,0084;Russia (Soviet Union);Europe;2012-08-09;2012-08-10
+190250;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-08-12;2012-08-12
+190251;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8496;47,6269;Russia (Soviet Union);Europe;2012-09-01;2012-09-18
+190252;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2281;44,6485;Russia (Soviet Union);Europe;2012-08-13;2012-08-13
+190253;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-08-14;2012-08-14
+190254;2012;3;Forces of the Caucasus Emirate - Civilians;42,7347;47,0886;Russia (Soviet Union);Europe;2012-08-16;2012-08-16
+190255;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5096;44,5902;Russia (Soviet Union);Europe;2012-08-18;2012-08-18
+190256;2012;1;Russia (Soviet Union):Caucasus Emirate;55,8304;49,0661;Russia (Soviet Union);Europe;2012-08-18;2012-08-20
+190257;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-08-21;2012-08-21
+190258;2012;1;Russia (Soviet Union):Caucasus Emirate;41,75;47,933333;Russia (Soviet Union);Europe;2012-08-21;2012-08-21
+190259;2012;3;Forces of the Caucasus Emirate - Civilians;42,962;46,9778;Russia (Soviet Union);Europe;2012-08-28;2012-08-28
+190260;2012;1;Russia (Soviet Union):Caucasus Emirate;42,2635;45,9055;Russia (Soviet Union);Europe;2012-08-22;2012-08-22
+190261;2012;1;Russia (Soviet Union):Caucasus Emirate;43,6012;46,7792;Russia (Soviet Union);Europe;2012-08-22;2012-08-22
+190262;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-08-25;2012-08-25
+190263;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-08-25;2012-08-25
+190264;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1627;45,201;Russia (Soviet Union);Europe;2012-08-27;2012-08-27
+190265;2012;1;Russia (Soviet Union):Caucasus Emirate;43,5096;44,5902;Russia (Soviet Union);Europe;2012-08-28;2012-08-28
+190267;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2382;45,0492;Russia (Soviet Union);Europe;2012-08-31;2012-08-31
+190268;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-08-31;2012-08-31
+190269;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3932;43,5629;Russia (Soviet Union);Europe;2012-09-01;2012-09-01
+190271;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1953;46,8974;Russia (Soviet Union);Europe;2012-09-02;2012-09-02
+190274;2012;1;Russia (Soviet Union):Caucasus Emirate;42,6099;47,5894;Russia (Soviet Union);Europe;2012-11-08;2012-11-08
+190275;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-09-06;2012-09-06
+190276;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3204;45,0477;Russia (Soviet Union);Europe;2012-09-07;2012-09-07
+190277;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8136;46,6305;Russia (Soviet Union);Europe;2012-09-13;2012-09-13
+190278;2012;1;Russia (Soviet Union):Caucasus Emirate;43,8611;46,6806;Russia (Soviet Union);Europe;2012-09-13;2012-09-13
+190280;2012;1;Russia (Soviet Union):Caucasus Emirate;42,2209;45,7971;Russia (Soviet Union);Europe;2012-09-15;2012-09-15
+190281;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-09-18;2012-09-18
+190282;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-09-18;2012-09-18
+190283;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4052;44,8203;Russia (Soviet Union);Europe;2012-09-18;2012-09-18
+190284;2012;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2012-09-20;2012-09-20
+190285;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9526;46,0671;Russia (Soviet Union);Europe;2012-09-20;2012-09-20
+190286;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-09-23;2012-09-23
+190287;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0309;45,1003;Russia (Soviet Union);Europe;2012-10-03;2012-10-03
+190288;2012;1;Russia (Soviet Union):Caucasus Emirate;42,305;47,6697;Russia (Soviet Union);Europe;2012-09-28;2012-09-28
+190289;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2012-10-01;2012-10-01
+190290;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-10-07;2012-10-08
+190291;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-10-08;2012-10-08
+190292;2012;1;Russia (Soviet Union):Caucasus Emirate;55,8304;49,0661;Russia (Soviet Union);Europe;2012-10-24;2012-10-24
+190293;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1831;46,661;Russia (Soviet Union);Europe;2012-10-09;2012-10-09
+190295;2012;1;Russia (Soviet Union):Caucasus Emirate;43,1831;46,661;Russia (Soviet Union);Europe;2012-10-12;2012-10-13
+190296;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-10-15;2012-10-16
+190298;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-11-04;2012-11-05
+190299;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-10-19;2012-10-19
+190300;2012;1;Russia (Soviet Union):Caucasus Emirate;43,187861;44,746127;Russia (Soviet Union);Europe;2012-10-23;2012-10-23
+190301;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-10-28;2012-10-28
+190302;2012;1;Russia (Soviet Union):Caucasus Emirate;43,6819;43,535;Russia (Soviet Union);Europe;2012-11-01;2012-11-01
+190303;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7405;43,1955;Russia (Soviet Union);Europe;2012-11-03;2012-11-03
+190304;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-11-07;2012-11-07
+190306;2012;3;Forces of the Caucasus Emirate - Civilians;42,4166;47,1774;Russia (Soviet Union);Europe;2012-11-11;2012-11-11
+190307;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9801;45,0131;Russia (Soviet Union);Europe;2012-11-12;2012-11-12
+190308;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-11-13;2012-11-14
+190309;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-11-16;2012-11-16
+190310;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2012-11-16;2012-11-16
+190311;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7155;43,9009;Russia (Soviet Union);Europe;2012-11-17;2012-11-17
+190312;2012;1;Russia (Soviet Union):Caucasus Emirate;43,7155;43,9009;Russia (Soviet Union);Europe;2012-11-18;2012-11-18
+190313;2012;1;Russia (Soviet Union):Caucasus Emirate;42,5648;47,565;Russia (Soviet Union);Europe;2012-11-20;2012-11-20
+190314;2012;1;Russia (Soviet Union):Caucasus Emirate;42,6879;46,8709;Russia (Soviet Union);Europe;2012-11-21;2012-11-21
+190316;2012;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2012-11-22;2012-11-22
+190318;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3982;42,9214;Russia (Soviet Union);Europe;2012-12-11;2012-12-12
+190319;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-12-01;2012-12-01
+190321;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-12-09;2012-12-09
+190322;2012;1;Russia (Soviet Union):Caucasus Emirate;43,192;44,6533;Russia (Soviet Union);Europe;2012-12-10;2012-12-10
+190323;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-12-13;2012-12-13
+190324;2012;1;Russia (Soviet Union):Caucasus Emirate;43,2275;44,7646;Russia (Soviet Union);Europe;2012-12-19;2012-12-19
+190327;2012;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2012-12-28;2012-12-28
+190328;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3932;43,5629;Russia (Soviet Union);Europe;2012-12-24;2012-12-24
+190330;2012;3;Forces of the Caucasus Emirate - Civilians;43,0206;44,6819;Russia (Soviet Union);Europe;2012-12-27;2012-12-27
+190331;2012;1;Russia (Soviet Union):Caucasus Emirate;43,3036;46,8597;Russia (Soviet Union);Europe;2012-12-28;2012-12-28
+190342;2012;1;Russia (Soviet Union):Caucasus Emirate;43,0309;45,1003;Russia (Soviet Union);Europe;2012-09-05;2012-09-05
+64094;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-01-12;2013-01-12
+64095;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-01-06;2013-01-06
+64104;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-01-12;2013-01-14
+64112;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-01-15;2013-01-15
+64132;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-01-16;2013-01-16
+64153;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-01-23;2013-01-24
+64254;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-01-25;2013-01-25
+64269;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-01-29;2013-01-29
+64273;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-01-20;2013-01-20
+64275;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-06;2013-02-06
+64298;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-08;2013-02-08
+64299;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-11;2013-02-11
+64303;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-02-12;2013-02-12
+64305;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-02-13;2013-02-13
+64307;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-14;2013-02-14
+64309;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-14;2013-02-14
+64313;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-15;2013-02-15
+64315;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-16;2013-02-16
+64316;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-02-17;2013-02-17
+64318;2013;3;Government of Russia (Soviet Union) - Civilians;42,9849;47,5046;Russia (Soviet Union);Europe;2013-02-17;2013-02-17
+64345;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-02-22;2013-02-22
+64358;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-03-07;2013-03-07
+64364;2013;3;Government of Russia (Soviet Union) - Civilians;44,2269;42,0468;Russia (Soviet Union);Europe;2013-03-08;2013-03-08
+64379;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-03-12;2013-03-12
+64495;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-03-11;2013-03-12
+64499;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-03-12;2013-03-12
+64528;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-03-13;2013-03-13
+64570;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-03-13;2013-03-15
+64574;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-03-21;2013-03-21
+64578;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-03-20;2013-03-24
+64579;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-04-02;2013-04-02
+64580;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-04;2013-04-04
+64581;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-04-03;2013-04-03
+64582;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1627;45,201;Russia (Soviet Union);Europe;2013-03-31;2013-03-31
+67382;2013;1;Azerbaijan:Nagorno-Karabakh;39,66667;47;Azerbaijan;Europe;2013-02-05;2013-02-05
+67390;2013;1;Azerbaijan:Nagorno-Karabakh;39,58333;47,33333;Azerbaijan;Europe;2013-03-10;2013-03-10
+67396;2013;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2013-03-19;2013-03-21
+67413;2013;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2013-03-24;2013-03-26
+67414;2013;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2013-02-01;2013-02-28
+67416;2013;1;Azerbaijan:Nagorno-Karabakh;40,333333;46,916667;Azerbaijan;Europe;2013-05-27;2013-05-27
+67421;2013;1;Azerbaijan:Nagorno-Karabakh;40,333333;46,916667;Azerbaijan;Europe;2013-07-29;2013-07-29
+67426;2013;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2013-01-01;2013-07-26
+67451;2013;1;Azerbaijan:Nagorno-Karabakh;38,866667;46,2;Armenia;Europe;2013-08-21;2013-08-23
+67475;2013;1;Azerbaijan:Nagorno-Karabakh;40,5;47,5;Azerbaijan;Europe;2013-10-22;2013-10-22
+67476;2013;1;Azerbaijan:Nagorno-Karabakh;40,4;46,75;Azerbaijan;Europe;2013-12-14;2013-12-14
+67664;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-04-08;2013-04-08
+67895;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-11;2013-04-11
+67907;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-12;2013-04-12
+67924;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-24;2013-04-24
+67933;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-26;2013-04-27
+67936;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-30;2013-04-30
+67941;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-30;2013-04-30
+67945;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-09;2013-05-09
+67946;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-09;2013-05-09
+68011;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-09;2013-05-09
+68066;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-05-09;2013-05-09
+68069;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-04-01;2013-04-30
+68079;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-01;2013-04-30
+68082;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-14;2013-05-14
+68084;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-05-17;2013-05-17
+68088;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-20;2013-05-20
+68091;2013;1;Russia (Soviet Union):Caucasus Emirate;55,803932;38,977071;Russia (Soviet Union);Europe;2013-05-20;2013-05-20
+68093;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-05-21;2013-05-21
+68099;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-03-21;2013-03-21
+68108;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-23;2013-05-23
+68109;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-23;2013-05-23
+68110;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-25;2013-05-25
+68138;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-05-30;2013-05-30
+68141;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-06-01;2013-06-01
+68143;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-05;2013-06-05
+68144;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-05;2013-06-05
+68145;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-06;2013-06-06
+68147;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-06-07;2013-06-07
+68148;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-06-09;2013-06-09
+68149;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-11;2013-06-11
+68150;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-11;2013-06-11
+68154;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-27;2013-06-27
+68157;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-06-29;2013-06-30
+68158;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-06-29;2013-06-29
+68159;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-07-04;2013-07-04
+68160;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-07-02;2013-07-04
+68161;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-07-06;2013-07-06
+68162;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-07-08;2013-07-08
+68164;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-07-12;2013-07-12
+68165;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-07-12;2013-07-12
+68166;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-07-14;2013-07-14
+68167;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-07-15;2013-07-15
+68168;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-07-15;2013-07-15
+68170;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-06-01;2013-06-01
+68171;2013;1;Russia (Soviet Union):Caucasus Emirate;44,6681;43,5202;Russia (Soviet Union);Europe;2013-06-01;2013-06-30
+68173;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-07-18;2013-07-18
+68211;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-07-23;2013-07-23
+68212;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-07-24;2013-07-24
+68213;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-02;2013-08-02
+68229;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-08-03;2013-08-03
+68231;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-08-07;2013-08-07
+68233;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-08;2013-08-08
+68239;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-08;2013-08-10
+68240;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-09;2013-10-09
+68242;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-08-12;2013-08-12
+68246;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-13;2013-08-15
+68247;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-15;2013-08-17
+68248;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-20;2013-08-20
+68250;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-20;2013-08-20
+68252;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-08-27;2013-08-27
+68255;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-28;2013-08-28
+68256;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-08-30;2013-08-30
+68259;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-08-30;2013-08-30
+68261;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-01;2013-09-01
+68262;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-03;2013-09-03
+68263;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-09-05;2013-09-05
+68267;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-10;2013-09-10
+68268;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-09-16;2013-09-16
+68269;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-09-16;2013-09-16
+68270;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-09-20;2013-09-21
+68271;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-09-21;2013-09-21
+68272;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-21;2013-09-21
+68273;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-23;2013-09-23
+68274;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-25;2013-09-25
+68275;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-24;2013-09-24
+68276;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-27;2013-09-27
+68277;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-28;2013-09-28
+68279;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-09-28;2013-09-28
+68280;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-09-29;2013-09-29
+68281;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-01;2013-10-01
+68282;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-01;2013-10-02
+68283;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-01;2013-10-02
+68284;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-02;2013-10-02
+68285;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-02;2013-10-02
+68286;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-09;2013-10-09
+68287;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-09;2013-10-09
+68290;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-14;2013-10-15
+68292;2013;3;Forces of the Caucasus Emirate - Civilians;48,7;44,516667;Russia (Soviet Union);Europe;2013-10-21;2013-10-21
+68424;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-24;2013-10-24
+68425;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-25;2013-10-25
+68426;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-10-24;2013-10-24
+68428;2013;3;Forces of the Caucasus Emirate - Civilians;42,9849;47,5046;Russia (Soviet Union);Europe;2013-10-30;2013-10-30
+68430;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-03;2013-11-04
+68431;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-05;2013-11-05
+68432;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-06;2013-11-06
+68434;2013;3;Forces of the Caucasus Emirate - Civilians;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-12;2013-11-13
+68435;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-13;2013-11-13
+68436;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-16;2013-11-16
+68451;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-19;2013-11-19
+68452;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-20;2013-11-20
+68453;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-11-20;2013-11-20
+68454;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-20;2013-11-20
+68455;2013;1;Russia (Soviet Union):Caucasus Emirate;44;43,2;Russia (Soviet Union);Europe;2013-11-08;2013-11-08
+68456;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-22;2013-11-22
+68457;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-21;2013-11-21
+68460;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-25;2013-11-25
+68462;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-11-26;2013-11-26
+68465;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-11-27;2013-11-27
+68467;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-05;2013-12-05
+68471;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-12-06;2013-12-06
+68472;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-09;2013-12-10
+68474;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-13;2013-12-13
+68475;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-12-15;2013-12-16
+68481;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-12-16;2013-12-16
+68482;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-12-23;2013-12-23
+68483;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-12-20;2013-12-20
+68486;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-26;2013-12-26
+68487;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-25;2013-12-25
+68489;2013;1;Russia (Soviet Union):Caucasus Emirate;44,0412;43,0661;Russia (Soviet Union);Europe;2013-12-27;2013-12-27
+68490;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-28;2013-12-28
+68491;2013;3;Forces of the Caucasus Emirate - Civilians;48,7;44,516667;Russia (Soviet Union);Europe;2013-12-28;2013-12-28
+68495;2013;3;Forces of the Caucasus Emirate - Civilians;48,7;44,516667;Russia (Soviet Union);Europe;2013-12-29;2013-12-29
+68496;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-12-30;2013-12-30
+68497;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-30;2013-12-30
+68498;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-12-31;2013-12-31
+68517;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-10-01;2013-12-31
+68518;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-10-01;2013-12-31
+68519;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-10-01;2013-12-31
+68520;2013;1;Russia (Soviet Union):Caucasus Emirate;44,6681;43,5202;Russia (Soviet Union);Europe;2013-10-01;2013-12-31
+68521;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-10-01;2013-12-31
+68522;2013;1;Russia (Soviet Union):Caucasus Emirate;42,3512;44,0857;Russia (Soviet Union);Europe;2013-10-01;2013-12-31
+68523;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-07-01;2013-10-31
+68524;2013;1;Russia (Soviet Union):Caucasus Emirate;44,6681;43,5202;Russia (Soviet Union);Europe;2013-07-01;2013-10-31
+68525;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-07-01;2013-10-31
+68526;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-07-01;2013-09-30
+68527;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-04-01;2013-06-30
+68528;2013;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2013-04-01;2013-06-30
+68529;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-04-01;2013-06-30
+68530;2013;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2013-01-01;2013-03-31
+68531;2013;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2013-01-01;2013-03-31
+68532;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2013-01-01;2013-03-31
+68533;2013;1;Russia (Soviet Union):Caucasus Emirate;43,8845;41,7304;Russia (Soviet Union);Europe;2013-01-01;2013-03-31
+149784;2013;1;Russia (Soviet Union):Caucasus Emirate;42,787222;46,715556;Russia (Soviet Union);Europe;2013-03-17;2013-03-17
+149788;2013;1;Russia (Soviet Union):Caucasus Emirate;43,2854;44,8358;Russia (Soviet Union);Europe;2013-03-22;2013-03-22
+149789;2013;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2013-03-23;2013-03-23
+115446;2014;1;Azerbaijan:Nagorno-Karabakh;39,6;47,33;Azerbaijan;Europe;2014-08-05;2014-08-05
+115447;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-07-31;2014-08-04
+115461;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-07-30;2014-08-01
+115464;2014;1;Azerbaijan:Nagorno-Karabakh;40,12626;47,025238;Azerbaijan;Europe;2014-08-31;2014-08-31
+115466;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-07-31;2014-07-31
+115477;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-07-26;2014-07-26
+115480;2014;1;Azerbaijan:Nagorno-Karabakh;40,1;46;Azerbaijan;Europe;2014-07-12;2014-07-12
+115481;2014;1;Azerbaijan:Nagorno-Karabakh;39,6;47,33;Azerbaijan;Europe;2014-07-24;2014-07-24
+115482;2014;1;Azerbaijan:Nagorno-Karabakh;39,45;47,25;Azerbaijan;Europe;2014-06-19;2014-06-19
+120151;2014;1;Azerbaijan:Nagorno-Karabakh;39,5444;45,8113;Azerbaijan;Europe;2014-09-07;2014-09-08
+120156;2014;1;Azerbaijan:Nagorno-Karabakh;39,5444;45,8113;Azerbaijan;Europe;2014-06-02;2014-06-02
+120157;2014;1;Azerbaijan:Nagorno-Karabakh;39,65;47,45;Azerbaijan;Europe;2014-05-27;2014-05-28
+120158;2014;1;Azerbaijan:Nagorno-Karabakh;39,65;47,45;Azerbaijan;Europe;2014-05-25;2014-05-25
+120159;2014;1;Azerbaijan:Nagorno-Karabakh;39,65;47,45;Azerbaijan;Europe;2014-05-20;2014-05-20
+120160;2014;1;Azerbaijan:Nagorno-Karabakh;39,65;47,45;Azerbaijan;Europe;2014-03-31;2014-03-31
+120161;2014;1;Azerbaijan:Nagorno-Karabakh;40,2;46,9;Azerbaijan;Europe;2014-03-27;2014-03-27
+120162;2014;1;Azerbaijan:Nagorno-Karabakh;39,600278;47,143056;Azerbaijan;Europe;2014-03-15;2014-03-17
+120163;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-02-26;2014-02-26
+120164;2014;1;Azerbaijan:Nagorno-Karabakh;40,25;46,9;Azerbaijan;Europe;2014-01-18;2014-01-20
+120165;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-02-06;2014-02-06
+120166;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-01-19;2014-02-01
+120167;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-01-28;2014-01-28
+120168;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-01-27;2014-01-27
+120169;2014;1;Azerbaijan:Nagorno-Karabakh;40,333333;46,916667;Azerbaijan;Europe;2014-01-23;2014-01-23
+143562;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-09-18;2014-09-18
+143564;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-09-23;2014-09-23
+143565;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-09-27;2014-09-27
+143566;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-10-01;2014-10-01
+143568;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-10-10;2014-10-10
+143586;2014;1;Azerbaijan:Nagorno-Karabakh;39,983611;46,928611;Azerbaijan;Europe;2014-11-12;2014-11-12
+147984;2014;1;Russia (Soviet Union):Caucasus Emirate;43,3036;46,8597;Russia (Soviet Union);Europe;2014-01-11;2014-01-11
+147986;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2313;46,6467;Russia (Soviet Union);Europe;2014-01-15;2014-01-15
+147990;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-01-18;2014-01-18
+147995;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2;46,81;Russia (Soviet Union);Europe;2014-01-21;2014-01-21
+147997;2014;1;Ukraine:Government;50,45;30,52333;Ukraine;Europe;2014-01-22;2014-01-22
+149219;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-01-25;2014-01-25
+149221;2014;1;Ukraine:Government;50,45;30,52333;Ukraine;Europe;2014-01-27;2014-01-27
+149223;2014;1;Russia (Soviet Union):Caucasus Emirate;43,647822;47,168206;Russia (Soviet Union);Europe;2014-01-26;2014-01-26
+149224;2014;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2014-02-06;2014-02-06
+149225;2014;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2014-02-07;2014-02-07
+149248;2014;1;Ukraine:Government;50,45;30,52333;Ukraine;Europe;2014-02-18;2014-02-18
+149249;2014;1;Ukraine:Government;50,45;30,52333;Ukraine;Europe;2014-02-18;2014-02-20
+149250;2014;1;Ukraine:Government;50,45;30,52333;Ukraine;Europe;2014-02-20;2014-02-20
+149251;2014;1;Ukraine:Government;50,45;30,52333;Ukraine;Europe;2014-02-18;2014-02-21
+149597;2014;1;Russia (Soviet Union):Caucasus Emirate;42,5651;47,8711;Russia (Soviet Union);Europe;2014-03-03;2014-03-03
+149795;2014;1;Russia (Soviet Union):Caucasus Emirate;43,91838;46,710187;Russia (Soviet Union);Europe;2014-03-25;2014-03-25
+149803;2014;1;Russia (Soviet Union):Caucasus Emirate;43,1264;45,3282;Russia (Soviet Union);Europe;2014-03-31;2014-04-02
+149811;2014;3;Forces of the Caucasus Emirate - Civilians;42,9849;47,5046;Russia (Soviet Union);Europe;2014-04-05;2014-04-07
+149859;2014;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2014-04-08;2014-04-08
+149861;2014;3;Forces of the Caucasus Emirate - Civilians;43,2;46,883333;Russia (Soviet Union);Europe;2014-04-10;2014-04-10
+149864;2014;1;Russia (Soviet Union):Caucasus Emirate;43,4;45,716667;Russia (Soviet Union);Europe;2014-04-09;2014-04-11
+149866;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-04-12;2014-04-12
+149868;2014;1;Ukraine:Donetsk;48,776492;37,778737;Ukraine;Europe;2014-04-13;2014-04-13
+149874;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-04-15;2014-04-15
+149876;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-04-16;2014-04-17
+149879;2014;1;Ukraine:Donetsk;48,7067;37,6302;Ukraine;Europe;2014-04-16;2014-04-16
+149966;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2014-04-17;2014-04-17
+149973;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-04-20;2014-04-20
+151288;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-11-20;2014-11-20
+151289;2014;1;Azerbaijan:Nagorno-Karabakh;40,2;46,9;Azerbaijan;Europe;2014-12-08;2014-12-08
+151291;2014;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2014-11-21;2014-11-22
+152957;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-04-24;2014-04-24
+152958;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2014-04-24;2014-04-24
+152960;2014;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2014-04-26;2014-04-26
+152961;2014;1;Russia (Soviet Union):Caucasus Emirate;44,324649;44,7988;Russia (Soviet Union);Europe;2014-04-28;2014-04-28
+153019;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-02;2014-05-02
+153022;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-01;2014-05-01
+153024;2014;1;Russia (Soviet Union):Caucasus Emirate;42,595681;47,717372;Russia (Soviet Union);Europe;2014-05-02;2014-05-02
+153027;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-02;2014-05-02
+153030;2014;2;Supporters of independence for Eastern Ukraine - Supporters of Ukrainian unity;46,466667;30,733333;Ukraine;Europe;2014-05-02;2014-05-02
+153037;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-02;2014-05-02
+153143;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-03;2014-05-03
+153149;2014;1;Ukraine:Donetsk;48,817931;37,551012;Ukraine;Europe;2014-05-03;2014-05-03
+153151;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-05-04;2014-05-04
+153152;2014;1;Russia (Soviet Union):Caucasus Emirate;43,038462;46,071808;Russia (Soviet Union);Europe;2014-05-02;2014-05-02
+153154;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-05;2014-05-05
+153431;2014;1;Russia (Soviet Union):Caucasus Emirate;42,986463;47,402565;Russia (Soviet Union);Europe;2014-05-07;2014-05-07
+153433;2014;1;Ukraine:Donetsk;48,716667;37,533333;Ukraine;Europe;2014-05-03;2014-05-03
+153435;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-05-09;2014-05-09
+153997;2014;1;Ukraine:Donetsk;48,462882;37,349593;Ukraine;Europe;2014-05-13;2014-05-13
+154003;2014;1;Russia (Soviet Union):Caucasus Emirate;42,281667;46,991667;Russia (Soviet Union);Europe;2014-05-15;2014-05-15
+154007;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-19;2014-05-19
+154030;2014;1;Ukraine:Donetsk;47,595;37,4825;Ukraine;Europe;2014-05-21;2014-05-22
+154031;2014;1;Ukraine:Lugansk;49,01;38,3714;Ukraine;Europe;2014-05-21;2014-05-22
+154034;2014;1;Ukraine:Donetsk;48,1111;37,4884;Ukraine;Europe;2014-05-23;2014-05-23
+154042;2014;1;Ukraine:Lugansk;49,0142;38,3;Ukraine;Europe;2014-05-22;2014-05-22
+154046;2014;1;Russia (Soviet Union):Caucasus Emirate;43,4879;44,5895;Russia (Soviet Union);Europe;2014-05-24;2014-05-24
+154047;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-24;2014-05-24
+154048;2014;1;Ukraine:Lugansk;48,97;39;Ukraine;Europe;2014-05-25;2014-05-25
+154049;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-05-25;2014-05-25
+154050;2014;1;Ukraine:Donetsk;48,075;37,725556;Ukraine;Europe;2014-05-26;2014-05-27
+154054;2014;1;Ukraine:Donetsk;48,3;38,05;Ukraine;Europe;2014-05-26;2014-05-27
+154058;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-05-29;2014-05-29
+154062;2014;1;Ukraine:Donetsk;47,866121;38,858509;Ukraine;Europe;2014-06-02;2014-06-02
+154063;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-06-02;2014-06-02
+154064;2014;1;Russia (Soviet Union):Caucasus Emirate;43,90084;46,681103;Russia (Soviet Union);Europe;2014-06-04;2014-06-04
+154065;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-06-03;2014-06-04
+154066;2014;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2014-01-01;2014-06-04
+154067;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-06-05;2014-06-05
+154068;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-06-06;2014-06-06
+154069;2014;3;Forces of the Caucasus Emirate - Civilians;43,1953;46,8974;Russia (Soviet Union);Europe;2014-06-02;2014-06-02
+154070;2014;1;Ukraine:Donetsk;48,7067;37,6302;Ukraine;Europe;2014-06-10;2014-06-10
+154072;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-06-13;2014-06-13
+154073;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-06-14;2014-06-14
+154074;2014;1;Ukraine:Donetsk;48,621389;37,527778;Ukraine;Europe;2014-06-14;2014-06-14
+154156;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-06-14;2014-06-14
+154161;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-06-17;2014-06-17
+154177;2014;1;Ukraine:Donetsk;48,669793;37,652631;Ukraine;Europe;2014-06-10;2014-06-10
+154178;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-06-20;2014-06-20
+154179;2014;1;Ukraine:Donetsk;48,985278;37,811111;Ukraine;Europe;2014-06-19;2014-06-20
+154180;2014;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2014-06-22;2014-06-22
+154181;2014;1;Russia (Soviet Union):Caucasus Emirate;43,16365;45,47469;Russia (Soviet Union);Europe;2014-06-22;2014-06-22
+154182;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-06-24;2014-06-24
+154183;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-06-23;2014-06-24
+154404;2014;1;Ukraine:Donetsk;48,669793;37,652631;Ukraine;Europe;2014-06-24;2014-06-24
+154405;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-06-24;2014-06-24
+154406;2014;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2014-06-25;2014-06-26
+154407;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-06-26;2014-06-26
+154408;2014;1;Ukraine:Donetsk;48,716667;37,533333;Ukraine;Europe;2014-06-26;2014-06-27
+154409;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-06-28;2014-06-28
+154410;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-06-29;2014-06-29
+154412;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-06-30;2014-07-01
+154413;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-03;2014-07-03
+154414;2014;1;Ukraine:Donetsk;48,853333;37,625;Ukraine;Europe;2014-07-04;2014-07-04
+154628;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2014-07-09;2014-07-09
+154632;2014;3;Forces of the Caucasus Emirate - Civilians;43,2038;46,8729;Russia (Soviet Union);Europe;2014-07-09;2014-07-09
+154633;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-09;2014-07-10
+154637;2014;1;Ukraine:Lugansk;48,80699;38,735538;Ukraine;Europe;2014-07-09;2014-07-09
+154641;2014;1;Ukraine:Lugansk;47,848613;39,751691;Ukraine;Europe;2014-07-10;2014-07-11
+154652;2014;1;Ukraine:Donetsk;48,1111;37,4884;Ukraine;Europe;2014-07-10;2014-07-11
+154654;2014;1;Ukraine:Lugansk;47,914775;39,471546;Ukraine;Europe;2014-07-11;2014-07-11
+154655;2014;1;Ukraine:Lugansk;48,92;39,02;Ukraine;Europe;2014-07-08;2014-07-10
+154658;2014;1;Russia (Soviet Union):Caucasus Emirate;42,4343;45,9924;Russia (Soviet Union);Europe;2014-07-11;2014-07-11
+154661;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-07-11;2014-07-11
+154662;2014;1;Ukraine:Lugansk;47,95;39,14;Ukraine;Europe;2014-07-12;2014-07-12
+154665;2014;1;Ukraine:Lugansk;48,215;39,7755;Ukraine;Europe;2014-07-12;2014-07-12
+154666;2014;1;Ukraine:Donetsk;47,941669;37,504218;Ukraine;Europe;2014-07-11;2014-07-12
+154667;2014;1;Ukraine:Donetsk;48,397804;37,843767;Ukraine;Europe;2014-07-11;2014-07-12
+154669;2014;1;Ukraine:Lugansk;48,440496;38,815079;Ukraine;Europe;2014-07-11;2014-07-12
+154670;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-07-11;2014-07-12
+154671;2014;1;Ukraine:Lugansk;48,333333;39,933333;Russia (Soviet Union);Europe;2014-07-13;2014-07-13
+154672;2014;1;Ukraine:Lugansk;48,587;39,184193;Ukraine;Europe;2014-07-13;2014-07-13
+154674;2014;1;Ukraine:Lugansk;48,694329;39,453292;Ukraine;Europe;2014-07-02;2014-07-02
+154675;2014;1;Ukraine:Lugansk;48,92;39,02;Ukraine;Europe;2014-07-14;2014-07-15
+154676;2014;1;Ukraine:Donetsk;48,028278;38,765611;Ukraine;Europe;2014-07-15;2014-07-15
+154677;2014;1;Ukraine:Lugansk;48,5036;39,82266;Ukraine;Europe;2014-07-14;2014-07-14
+154679;2014;1;Ukraine:Donetsk;48,138378;38,639032;Ukraine;Europe;2014-07-17;2014-07-17
+154683;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-21;2014-07-21
+154684;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-20;2014-07-20
+154686;2014;1;Ukraine:Donetsk;48,462882;37,349593;Ukraine;Europe;2014-07-22;2014-07-22
+154687;2014;1;Ukraine:Lugansk;48,933333;38,5;Ukraine;Europe;2014-07-20;2014-07-22
+154689;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-07-23;2014-07-24
+154690;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-12;2014-07-12
+154692;2014;1;Ukraine:Donetsk;48,3;38,05;Ukraine;Europe;2014-07-27;2014-07-27
+154693;2014;1;Ukraine:Donetsk;47,922986;38,740539;Ukraine;Europe;2014-07-26;2014-07-26
+154694;2014;1;Ukraine:Donetsk;48,3;38,05;Ukraine;Europe;2014-07-28;2014-07-28
+154695;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-07-28;2014-07-28
+154696;2014;1;Ukraine:Donetsk;48,127778;37,8625;Ukraine;Europe;2014-07-28;2014-07-29
+154697;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-07-29;2014-07-30
+154698;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-29;2014-07-29
+154699;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2854;44,8358;Russia (Soviet Union);Europe;2014-07-28;2014-07-28
+154700;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-07-30;2014-07-31
+154701;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-05-05;2014-07-31
+154702;2014;1;Ukraine:Donetsk;48,046944;38,468611;Ukraine;Europe;2014-07-31;2014-08-01
+154703;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-07-31;2014-08-01
+154704;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-07-31;2014-08-01
+154705;2014;1;Russia (Soviet Union):Caucasus Emirate;43,537;44,279;Russia (Soviet Union);Europe;2014-08-01;2014-08-01
+154706;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-08-02;2014-08-03
+154707;2014;1;Ukraine:Donetsk;47,94542;37,617341;Ukraine;Europe;2014-08-02;2014-08-03
+154731;2014;1;Ukraine:Donetsk;48,127778;37,8625;Ukraine;Europe;2014-08-04;2014-08-04
+154732;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-02;2014-08-02
+154733;2014;1;Ukraine:Lugansk;48,6333;38,5167;Ukraine;Europe;2014-08-02;2014-08-02
+154734;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-07-01;2014-08-03
+154735;2014;1;Russia (Soviet Union):Caucasus Emirate;43,559424;43,427777;Russia (Soviet Union);Europe;2014-08-05;2014-08-05
+154808;2014;1;Ukraine:Donetsk;47,825;38,295;Ukraine;Europe;2014-08-04;2014-08-04
+154847;2014;1;Ukraine:Donetsk;47,933;38,936;Ukraine;Europe;2014-08-05;2014-08-05
+154978;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-08-05;2014-08-05
+154979;2014;1;Russia (Soviet Union):Caucasus Emirate;42,488172;46,737656;Russia (Soviet Union);Europe;2014-08-05;2014-08-05
+154994;2014;1;Ukraine:Donetsk;48,3;38,05;Ukraine;Europe;2014-08-06;2014-08-06
+154999;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-05;2014-08-05
+155000;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-05;2014-08-06
+155003;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-06;2014-08-07
+155005;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-07;2014-08-07
+155006;2014;1;Ukraine:Lugansk;48,92;39,02;Ukraine;Europe;2014-08-07;2014-08-08
+155009;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-10;2014-08-10
+155016;2014;1;Ukraine:Donetsk;47,92;37,68;Ukraine;Europe;2014-08-13;2014-08-13
+155026;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-13;2014-08-13
+155034;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-08-12;2014-08-13
+155039;2014;1;Ukraine:Donetsk;47,8787;38,06;Ukraine;Europe;2014-08-14;2014-08-14
+155043;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-12;2014-08-14
+155045;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-13;2014-08-14
+155050;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-14;2014-08-14
+155052;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-14;2014-08-15
+155056;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-08-14;2014-08-15
+155057;2014;1;Ukraine:Donetsk;48,3;38,05;Ukraine;Europe;2014-08-14;2014-08-15
+155058;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-16;2014-08-17
+155061;2014;1;Ukraine:Lugansk;48,495;39,5;Ukraine;Europe;2014-08-18;2014-08-18
+155066;2014;1;Ukraine:Lugansk;48,566667;39,3;Ukraine;Europe;2014-08-18;2014-08-18
+155073;2014;1;Ukraine:Lugansk;48,6333;38,5167;Ukraine;Europe;2014-07-27;2014-08-18
+155076;2014;1;Ukraine:Donetsk;48,3;38,05;Ukraine;Europe;2014-07-27;2014-08-10
+155081;2014;1;Ukraine:Lugansk;48,92;39,02;Ukraine;Europe;2014-05-04;2014-08-17
+155086;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-04-12;2014-08-17
+155089;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-08-18;2014-08-19
+155090;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-19;2014-08-20
+155091;2014;1;Ukraine:Donetsk;47,926;38,194;Ukraine;Europe;2014-08-19;2014-08-19
+155092;2014;1;Ukraine:Donetsk;47,926;38,194;Ukraine;Europe;2014-08-20;2014-08-20
+155093;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2014-08-20;2014-08-20
+155095;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-18;2014-08-20
+155096;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-19;2014-08-21
+155097;2014;1;Ukraine:Lugansk;48,92;39,02;Ukraine;Europe;2014-08-20;2014-08-21
+155098;2014;1;Ukraine:Donetsk;47,8787;38,06;Ukraine;Europe;2014-08-20;2014-08-21
+155099;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2014-08-22;2014-08-22
+155100;2014;1;Ukraine:Donetsk;48,14;37,74;Ukraine;Europe;2014-08-23;2014-08-24
+155101;2014;1;Russia (Soviet Union):Caucasus Emirate;43,25;46,583333;Russia (Soviet Union);Europe;2014-08-26;2014-08-26
+155102;2014;1;Ukraine:Lugansk;48,85;39,845;Ukraine;Europe;2014-08-25;2014-08-25
+155103;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-25;2014-08-26
+155104;2014;1;Ukraine:Donetsk;47,926;38,194;Ukraine;Europe;2014-08-25;2014-09-02
+155105;2014;1;Ukraine:Lugansk;48,85;39,845;Ukraine;Europe;2014-08-26;2014-08-26
+155106;2014;1;Ukraine:Donetsk;47,753178;38,031628;Ukraine;Europe;2014-08-25;2014-08-26
+155108;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-08-28;2014-08-28
+155109;2014;1;Ukraine:Donetsk;48,028278;38,765611;Ukraine;Europe;2014-08-13;2014-08-13
+155112;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-09-01;2014-09-01
+155250;2014;1;Ukraine:Donetsk;48,216667;38,2;Ukraine;Europe;2014-09-02;2014-09-03
+155251;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-09-02;2014-09-03
+155252;2014;1;Ukraine:Donetsk;48,028278;38,765611;Ukraine;Europe;2014-08-06;2014-08-06
+155254;2014;1;Russia (Soviet Union):Caucasus Emirate;42,31506;47,71099;Russia (Soviet Union);Europe;2014-09-05;2014-09-05
+155255;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-09-04;2014-09-05
+155258;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2505;46,5851;Russia (Soviet Union);Europe;2014-09-05;2014-09-06
+155259;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-09-06;2014-09-06
+155262;2014;1;Ukraine:Donetsk;47,454601;37,864028;Ukraine;Europe;2014-09-05;2014-09-09
+155264;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-09-05;2014-09-09
+155266;2014;1;Ukraine:Donetsk;47,7263;38,1084;Ukraine;Europe;2014-08-25;2014-08-31
+155267;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-09-14;2014-09-14
+155268;2014;1;Ukraine:Donetsk;48,075;37,725556;Ukraine;Europe;2014-09-16;2014-09-16
+155269;2014;1;Ukraine:Donetsk;48;37,805278;Ukraine;Europe;2014-09-16;2014-09-16
+155270;2014;1;Ukraine:Donetsk;48,083333;38,066667;Ukraine;Europe;2014-09-16;2014-09-16
+155272;2014;1;Ukraine:Donetsk;47,095833;37,549444;Ukraine;Europe;2014-09-16;2014-09-16
+155274;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-09-17;2014-09-17
+155275;2014;1;Ukraine:Novorossiya;48,113883;38,160326;Ukraine;Europe;2014-09-17;2014-09-17
+155276;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-09-18;2014-09-18
+155277;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-09-18;2014-09-19
+155278;2014;1;Ukraine:Novorossiya;48,083333;38,066667;Ukraine;Europe;2014-09-18;2014-09-19
+155279;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-09-18;2014-09-19
+155280;2014;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2014-09-20;2014-09-21
+155281;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-09-25;2014-09-25
+155282;2014;1;Ukraine:Novorossiya;48,721895;39,25145;Ukraine;Europe;2014-09-26;2014-09-26
+155283;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-09-26;2014-09-27
+155284;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-09-28;2014-09-29
+155285;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-09-28;2014-09-29
+155286;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-09-28;2014-09-29
+155287;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-01;2014-10-01
+155288;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-01;2014-10-02
+155289;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-02;2014-10-02
+155290;2014;1;Russia (Soviet Union):Caucasus Emirate;43,1;46,883333;Russia (Soviet Union);Europe;2014-10-02;2014-10-02
+155291;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-03;2014-10-03
+155292;2014;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2014-10-02;2014-10-03
+155293;2014;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2014-10-02;2014-10-03
+155295;2014;1;Russia (Soviet Union):Caucasus Emirate;43,683333;43,533333;Russia (Soviet Union);Europe;2014-10-05;2014-10-05
+155296;2014;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2014-10-05;2014-10-05
+155297;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-04;2014-10-05
+155316;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-05;2014-10-06
+155317;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-06;2014-10-06
+155329;2014;1;Ukraine:Novorossiya;48,683333;38,516667;Ukraine;Europe;2014-10-07;2014-10-07
+155332;2014;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2014-10-07;2014-10-07
+155335;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-07;2014-10-07
+155337;2014;1;Ukraine:Novorossiya;47,961389;37,646389;Ukraine;Europe;2014-10-06;2014-10-07
+155340;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-06;2014-10-07
+155347;2014;1;Russia (Soviet Union):Caucasus Emirate;42,589566;46,675548;Russia (Soviet Union);Europe;2014-10-08;2014-10-08
+155349;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-08;2014-10-08
+155351;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-08;2014-10-08
+155352;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-09;2014-10-09
+155355;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-10;2014-10-10
+155358;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-09;2014-10-09
+155361;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-10;2014-10-11
+155362;2014;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2014-10-10;2014-10-11
+155363;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-11;2014-10-11
+155364;2014;1;Russia (Soviet Union):Caucasus Emirate;42,7;47,55;Russia (Soviet Union);Europe;2014-10-11;2014-10-11
+155365;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-13;2014-10-13
+155366;2014;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2014-10-13;2014-10-13
+155369;2014;1;Ukraine:Novorossiya;47,18;37,69;Ukraine;Europe;2014-10-14;2014-10-14
+155370;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-16;2014-10-16
+155371;2014;1;Russia (Soviet Union):Caucasus Emirate;41,9258;47,9287;Russia (Soviet Union);Europe;2014-10-16;2014-10-16
+155372;2014;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2014-10-16;2014-10-16
+155373;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-17;2014-10-18
+155374;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-10-17;2014-10-18
+155375;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-18;2014-10-19
+155376;2014;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2014-10-18;2014-10-18
+155377;2014;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2014-10-19;2014-10-20
+155378;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-21;2014-10-22
+155409;2014;1;Ukraine:Novorossiya;48,6789;38,9156;Ukraine;Europe;2014-10-26;2014-10-27
+155411;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-10-30;2014-10-30
+155412;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-30;2014-10-30
+155413;2014;1;Ukraine:Novorossiya;48,724788;38,63232;Ukraine;Europe;2014-10-30;2014-10-30
+155415;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-10-28;2014-10-28
+155416;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-10-30;2014-10-31
+155417;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-10-31;2014-11-01
+155418;2014;1;Ukraine:Novorossiya;48,75;38,8;Ukraine;Europe;2014-10-31;2014-11-01
+155419;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-10-31;2014-10-31
+155420;2014;1;Russia (Soviet Union):Caucasus Emirate;43,583333;43,4;Russia (Soviet Union);Europe;2014-10-31;2014-10-31
+155421;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-01;2014-11-02
+155422;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-11-02;2014-11-02
+155423;2014;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2014-11-02;2014-11-02
+155424;2014;1;Ukraine:Novorossiya;48,635588;38,643666;Ukraine;Europe;2014-11-03;2014-11-04
+155425;2014;1;Ukraine:Novorossiya;48,671413;38,763354;Ukraine;Europe;2014-11-03;2014-11-04
+155426;2014;1;Ukraine:Novorossiya;48,564161;38,644237;Ukraine;Europe;2014-11-03;2014-11-04
+155427;2014;1;Russia (Soviet Union):Caucasus Emirate;43,5671;43,5866;Russia (Soviet Union);Europe;2014-11-04;2014-11-04
+155428;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-04;2014-11-05
+155429;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-05;2014-11-05
+155430;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-04;2014-11-05
+155431;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-06;2014-11-06
+155432;2014;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2014-11-06;2014-11-07
+155433;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-06;2014-11-07
+155434;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-07;2014-11-08
+155436;2014;1;Ukraine:Novorossiya;48,694329;39,453292;Ukraine;Europe;2014-11-12;2014-11-13
+155438;2014;1;Ukraine:Novorossiya;48,753333;38,9725;Ukraine;Europe;2014-11-14;2014-11-14
+155439;2014;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2014-11-14;2014-11-14
+155440;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-14;2014-11-14
+155441;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-14;2014-11-14
+155442;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-13;2014-11-14
+156674;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-14;2014-11-15
+156675;2014;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2014-11-15;2014-11-15
+156676;2014;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2014-11-16;2014-11-16
+156677;2014;1;Ukraine:Novorossiya;48,678892;39,516218;Ukraine;Europe;2014-11-16;2014-11-16
+156678;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-16;2014-11-17
+156681;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-16;2014-11-17
+156682;2014;1;Russia (Soviet Union):Caucasus Emirate;43,276105;45,132295;Russia (Soviet Union);Europe;2014-11-17;2014-11-17
+156684;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-17;2014-11-18
+156687;2014;1;Russia (Soviet Union):Caucasus Emirate;42,059;48,2908;Russia (Soviet Union);Europe;2014-11-21;2014-11-21
+156689;2014;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2014-11-20;2014-11-21
+156690;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-20;2014-11-21
+156691;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-21;2014-11-22
+156692;2014;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2014-11-23;2014-11-24
+156694;2014;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2014-11-23;2014-11-24
+156695;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-23;2014-11-24
+156696;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-25;2014-11-25
+156759;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-24;2014-11-24
+156760;2014;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2014-11-24;2014-11-25
+156761;2014;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2014-11-25;2014-11-26
+156791;2014;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2014-11-26;2014-11-26
+156792;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-27;2014-11-27
+156793;2014;1;Ukraine:Novorossiya;48,694329;39,453292;Ukraine;Europe;2014-11-27;2014-11-27
+156795;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-11-28;2014-11-28
+156796;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-29;2014-11-30
+156797;2014;1;Ukraine:Novorossiya;48,694329;39,453292;Ukraine;Europe;2014-11-29;2014-11-30
+156798;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-11-30;2014-11-30
+156800;2014;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2014-11-30;2014-11-30
+156801;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-11-28;2014-11-28
+156802;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-11-30;2014-12-01
+156804;2014;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2014-12-02;2014-12-02
+156805;2014;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2014-12-02;2014-12-02
+156806;2014;1;Ukraine:Novorossiya;48,753333;38,9725;Ukraine;Europe;2014-12-02;2014-12-02
+156808;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-12-04;2014-12-04
+156829;2014;1;Russia (Soviet Union):Caucasus Emirate;43,318;45,6982;Russia (Soviet Union);Europe;2014-12-04;2014-12-04
+156834;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-12-05;2014-12-05
+156835;2014;1;Ukraine:Novorossiya;45,093056;33,595;Ukraine;Europe;2014-12-05;2014-12-05
+156837;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2018;46,9841;Russia (Soviet Union);Europe;2014-12-05;2014-12-06
+156838;2014;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2014-12-06;2014-12-06
+156840;2014;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2014-12-08;2014-12-09
+156841;2014;1;Russia (Soviet Union):Caucasus Emirate;42,9849;47,5046;Russia (Soviet Union);Europe;2014-12-09;2014-12-09
+156842;2014;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2014-12-11;2014-12-11
+156843;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-12-10;2014-12-11
+156844;2014;1;Russia (Soviet Union):Caucasus Emirate;43,7114;44,8061;Russia (Soviet Union);Europe;2014-01-01;2014-12-15
+156845;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-12-16;2014-12-16
+156846;2014;1;Russia (Soviet Union):Caucasus Emirate;43,683333;43,533333;Russia (Soviet Union);Europe;2014-12-18;2014-12-18
+156847;2014;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2014-12-18;2014-12-18
+156848;2014;1;Russia (Soviet Union):Caucasus Emirate;43,315;45,164;Russia (Soviet Union);Europe;2014-12-24;2014-12-24
+156850;2014;1;Russia (Soviet Union):Caucasus Emirate;43,2;44,966667;Russia (Soviet Union);Europe;2014-12-28;2014-12-28
+156851;2014;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2014-12-29;2014-12-29
+156948;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-09-17;2014-09-25
+156949;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-09-26;2014-09-30
+156952;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-10-16;2014-10-21
+156953;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-10-22;2014-10-29
+156954;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-10-30;2014-12-07
+156955;2014;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2014-12-08;2014-12-24
+198671;2015;1;Russia (Soviet Union):Caucasus Emirate;43,666;45,3841;Russia (Soviet Union);Europe;2015-01-01;2015-01-01
+198673;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-01-01;2015-01-01
+198675;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-01-02;2015-01-02
+198678;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-06;2015-01-07
+198680;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-09;2015-01-09
+198682;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-01-09;2015-01-10
+198690;2015;3;Government of Russia (Soviet Union) - Civilians;40,789444;43,8475;Armenia;Europe;2015-01-12;2015-01-12
+198693;2015;1;Ukraine:Novorossiya;47,595;37,4825;Ukraine;Europe;2015-01-13;2015-01-13
+198695;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-13;2015-01-13
+198696;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-01-13;2015-01-13
+198701;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-14;2015-01-14
+198826;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-15;2015-01-16
+198827;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-15;2015-01-15
+198828;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-15;2015-01-16
+198829;2015;1;Ukraine:Novorossiya;48,2736;38,60835;Ukraine;Europe;2015-01-15;2015-01-16
+198830;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-16;2015-01-16
+198831;2015;1;Ukraine:Novorossiya;48,694329;39,453292;Ukraine;Europe;2015-01-16;2015-01-16
+198832;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-16;2015-01-17
+198833;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-16;2015-01-17
+198834;2015;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2015-01-17;2015-01-17
+198835;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-15;2015-01-17
+198839;2015;1;Ukraine:Novorossiya;48,313148;38,277561;Ukraine;Europe;2015-01-18;2015-01-18
+198844;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-18;2015-01-18
+198846;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-01-18;2015-01-19
+198860;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-20;2015-01-21
+198869;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-22;2015-01-22
+198882;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-21;2015-01-22
+198884;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-01-21;2015-01-22
+198887;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-01-21;2015-01-22
+198890;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-01-21;2015-01-22
+198895;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-01-13;2015-01-22
+198899;2015;1;Ukraine:Novorossiya;48,6333;38,5167;Ukraine;Europe;2015-01-23;2015-01-23
+198904;2015;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2015-01-24;2015-01-24
+198910;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-01-24;2015-01-25
+198915;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-01-25;2015-01-26
+198917;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-01-25;2015-01-26
+198922;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-01-26;2015-01-27
+198925;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-27;2015-01-27
+198945;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-01-27;2015-01-28
+198947;2015;1;Ukraine:Novorossiya;48,564161;38,644237;Ukraine;Europe;2015-01-27;2015-01-28
+198948;2015;1;Ukraine:Novorossiya;48,133333;38,933333;Ukraine;Europe;2015-01-27;2015-01-28
+198949;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-01-27;2015-01-28
+198953;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-01-29;2015-01-29
+198955;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-01-29;2015-01-30
+198958;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-29;2015-01-30
+198960;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-01-30;2015-01-30
+198961;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-01-30;2015-01-31
+198962;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-02-01;2015-02-01
+198964;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-01;2015-02-01
+198965;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-01;2015-02-01
+198966;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-02-01;2015-02-01
+198967;2015;1;Ukraine:Novorossiya;48,721895;39,25145;Ukraine;Europe;2015-02-01;2015-02-01
+203328;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-02;2015-02-03
+203335;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-04;2015-02-04
+203337;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-02-03;2015-02-04
+203341;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-04;2015-02-05
+203343;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-04;2015-02-05
+203354;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-06;2015-02-07
+203356;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-02-06;2015-02-07
+203357;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-06;2015-02-07
+203365;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-08;2015-02-09
+203368;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-02-08;2015-02-09
+203377;2015;1;Ukraine:Novorossiya;48,716667;37,533333;Ukraine;Europe;2015-02-10;2015-02-10
+203380;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-09;2015-02-10
+203391;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-11;2015-02-11
+203392;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-11;2015-02-11
+203393;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-02-10;2015-02-11
+203394;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-12;2015-02-13
+203395;2015;1;Ukraine:Novorossiya;48,721895;39,25145;Ukraine;Europe;2015-02-12;2015-02-13
+203396;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-02-13;2015-02-13
+203397;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-02-13;2015-02-13
+203398;2015;1;Ukraine:Novorossiya;48,595434;37,994085;Ukraine;Europe;2015-02-13;2015-02-14
+203399;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-14;2015-02-14
+203400;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-13;2015-02-14
+203401;2015;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2015-02-15;2015-02-15
+203402;2015;1;Ukraine:Novorossiya;48,379985;38,345045;Ukraine;Europe;2015-02-14;2015-02-14
+203403;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-15;2015-02-15
+203404;2015;1;Ukraine:Novorossiya;48,313148;38,277561;Ukraine;Europe;2015-02-16;2015-02-16
+203405;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-16;2015-02-16
+203406;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-02-18;2015-02-18
+203407;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-02-19;2015-02-19
+203408;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-01-22;2015-02-21
+203410;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-02-22;2015-02-23
+203411;2015;1;Russia (Soviet Union):Caucasus Emirate;43,470092;46,754572;Russia (Soviet Union);Europe;2015-02-23;2015-02-24
+203412;2015;1;Russia (Soviet Union):Caucasus Emirate;43,2;46,883333;Russia (Soviet Union);Europe;2015-02-25;2015-02-25
+203415;2015;1;Ukraine:Novorossiya;48,06087;37,681397;Ukraine;Europe;2015-02-28;2015-02-28
+203416;2015;1;Russia (Soviet Union):Caucasus Emirate;43,2684;46,9169;Russia (Soviet Union);Europe;2015-02-27;2015-02-27
+203418;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-02;2015-03-02
+203419;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-02;2015-03-03
+203420;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-03-03;2015-03-04
+203423;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-01-13;2015-02-15
+203424;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-08;2015-03-08
+203425;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-03-11;2015-03-11
+203426;2015;1;Ukraine:Novorossiya;48,06087;37,681397;Ukraine;Europe;2015-03-15;2015-03-15
+203504;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-15;2015-03-16
+203507;2015;1;Ukraine:Novorossiya;47,18316;37,862063;Ukraine;Europe;2015-03-16;2015-03-16
+203509;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-16;2015-03-17
+203514;2015;1;Ukraine:Novorossiya;48,533333;37,716667;Ukraine;Europe;2015-03-16;2015-03-16
+203520;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-17;2015-03-18
+203523;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-03-20;2015-03-20
+203524;2015;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2015-03-20;2015-03-20
+203526;2015;1;Ukraine:Novorossiya;48,313148;38,277561;Ukraine;Europe;2015-03-20;2015-03-21
+203528;2015;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2015-03-20;2015-03-21
+203529;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-03-20;2015-03-21
+203611;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-03-23;2015-03-24
+203612;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-03-23;2015-03-24
+203616;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-03-23;2015-03-24
+203619;2015;1;Ukraine:Novorossiya;48,595434;37,994085;Ukraine;Europe;2015-03-20;2015-03-20
+203627;2015;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2015-03-27;2015-03-27
+203633;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-04-04;2015-04-04
+203635;2015;1;Ukraine:Novorossiya;48,721895;39,25145;Ukraine;Europe;2015-04-05;2015-04-05
+203637;2015;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2015-04-05;2015-04-05
+203638;2015;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2015-04-07;2015-04-08
+203643;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-01-01;2015-02-28
+203645;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-12;2015-04-13
+203648;2015;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2015-04-14;2015-04-14
+203653;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-13;2015-04-14
+203656;2015;1;Ukraine:Novorossiya;48,06087;37,681397;Ukraine;Europe;2015-04-14;2015-04-15
+203659;2015;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2015-04-16;2015-04-16
+203661;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-04-15;2015-04-15
+203662;2015;1;Russia (Soviet Union):Caucasus Emirate;42,8214;47,1164;Russia (Soviet Union);Europe;2015-04-20;2015-04-20
+203663;2015;1;Ukraine:Novorossiya;48,06087;37,681397;Ukraine;Europe;2015-04-20;2015-04-21
+203665;2015;1;Ukraine:Novorossiya;48,426833;36,855864;Ukraine;Europe;2015-04-25;2015-04-25
+203666;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-26;2015-04-26
+203667;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-25;2015-04-25
+203668;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-27;2015-04-27
+203669;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-28;2015-04-28
+203670;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-29;2015-04-30
+203671;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-04-29;2015-04-30
+203672;2015;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2015-04-29;2015-04-30
+203673;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-04-29;2015-04-30
+203674;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-04-30;2015-05-01
+203676;2015;1;Russia (Soviet Union):Caucasus Emirate;43,2038;46,8729;Russia (Soviet Union);Europe;2015-05-02;2015-05-02
+203677;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-05-02;2015-05-03
+203678;2015;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2015-05-02;2015-05-03
+203679;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-05-02;2015-05-03
+203680;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-05-03;2015-05-04
+203681;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-05-03;2015-05-04
+203682;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-05-05;2015-05-05
+203683;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-05-05;2015-05-06
+203684;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-05-05;2015-05-06
+203686;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-05-15;2015-05-16
+203687;2015;1;Ukraine:Novorossiya;48,435297;38,220482;Ukraine;Europe;2015-05-16;2015-05-17
+203688;2015;1;Ukraine:Novorossiya;48,633333;38,38;Ukraine;Europe;2015-05-16;2015-05-17
+203689;2015;1;Ukraine:Novorossiya;48,668695;38,483163;Ukraine;Europe;2015-05-19;2015-05-19
+204566;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-05-21;2015-05-22
+204570;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-05-21;2015-05-22
+204572;2015;1;Ukraine:Novorossiya;48,477778;38,797778;Ukraine;Europe;2015-05-23;2015-05-23
+204578;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-05-22;2015-05-23
+204580;2015;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2015-05-24;2015-05-24
+204582;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-05-24;2015-05-25
+204585;2015;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2015-05-25;2015-05-26
+204587;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-05-25;2015-05-26
+204588;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-05-25;2015-05-26
+204590;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-05-26;2015-05-26
+204594;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-05-26;2015-05-27
+204596;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-05-28;2015-05-29
+204597;2015;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2015-05-30;2015-05-31
+204598;2015;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2015-05-30;2015-05-31
+204599;2015;1;Ukraine:Novorossiya;48,694329;39,453292;Ukraine;Europe;2015-05-30;2015-05-31
+204601;2015;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2015-05-31;2015-05-31
+204602;2015;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2015-05-31;2015-06-01
+204603;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-05-31;2015-06-01
+204604;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-05-31;2015-06-01
+204605;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-06-03;2015-06-03
+204606;2015;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2015-06-03;2015-06-03
+204698;2015;1;Ukraine:Novorossiya;47,411805;38,01457;Ukraine;Europe;2015-06-04;2015-06-04
+204712;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-06-04;2015-06-04
+204756;2015;1;Russia (Soviet Union):Caucasus Emirate;43,6468;43,3969;Russia (Soviet Union);Europe;2015-06-05;2015-06-05
+204784;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-06-05;2015-06-06
+204785;2015;1;Ukraine:Novorossiya;47,064607;37,600157;Ukraine;Europe;2015-06-07;2015-06-07
+204786;2015;1;Ukraine:Novorossiya;48,006667;37,512778;Ukraine;Europe;2015-06-08;2015-06-08
+204787;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-06-08;2015-06-09
+204788;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-06-10;2015-06-11
+204789;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-06-10;2015-06-11
+204790;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-06-10;2015-06-11
+204791;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-06-12;2015-06-13
+204792;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-06-13;2015-06-14
+204793;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-06-13;2015-06-14
+204794;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-06-14;2015-06-15
+204797;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-06-17;2015-06-18
+204798;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-06-18;2015-06-18
+204800;2015;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2015-06-20;2015-06-20
+204801;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-06-21;2015-06-22
+204802;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-06-22;2015-06-23
+204803;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-06-22;2015-06-23
+204805;2015;1;Russia:Islamic State;43,2275;44,7646;Russia (Soviet Union);Europe;2015-06-25;2015-06-25
+204806;2015;1;Russia:Islamic State;43,318;45,6982;Russia (Soviet Union);Europe;2015-06-25;2015-06-25
+204807;2015;1;Russia (Soviet Union):Caucasus Emirate;43,4846;43,6071;Russia (Soviet Union);Europe;2015-06-30;2015-06-30
+204808;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-07-01;2015-07-01
+204810;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-07-08;2015-07-08
+204812;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-07-09;2015-07-10
+204813;2015;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2015-07-09;2015-07-10
+204926;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-07-11;2015-07-12
+204927;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-07-11;2015-07-12
+204932;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-07-14;2015-07-15
+204933;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-07-14;2015-07-15
+204934;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-07-14;2015-07-15
+204935;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-07-14;2015-07-15
+204936;2015;1;Ukraine:Novorossiya;48,435297;38,220482;Ukraine;Europe;2015-07-14;2015-07-15
+204937;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-07-17;2015-07-18
+204938;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-07-17;2015-07-18
+204940;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-07-18;2015-07-18
+204941;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-07-18;2015-07-19
+204942;2015;1;Ukraine:Novorossiya;48,097688;37,664988;Ukraine;Europe;2015-07-18;2015-07-19
+204945;2015;1;Russia:Islamic State;43,4846;43,6071;Russia (Soviet Union);Europe;2015-07-23;2015-07-23
+204947;2015;1;Russia:Islamic State;43,4846;43,6071;Russia (Soviet Union);Europe;2015-07-14;2015-07-14
+204950;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-07-25;2015-07-26
+204951;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-07-26;2015-07-27
+204952;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-07-26;2015-07-27
+204954;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-07-29;2015-07-30
+204955;2015;1;Ukraine:Novorossiya;48,397804;37,843767;Ukraine;Europe;2015-07-29;2015-07-30
+204956;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-08-01;2015-08-02
+204957;2015;1;Russia:Islamic State;43,0309;45,1003;Russia (Soviet Union);Europe;2015-07-30;2015-08-01
+204958;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-07-02;2015-07-03
+204960;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-03;2015-08-04
+204961;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-08-05;2015-08-06
+204962;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-05;2015-08-06
+204963;2015;1;Russia:Islamic State;43,4846;43,6071;Russia (Soviet Union);Europe;2015-08-06;2015-08-06
+204965;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-08-07;2015-08-08
+204966;2015;1;Russia:Islamic State;43,4846;43,6071;Russia (Soviet Union);Europe;2015-08-08;2015-08-08
+204968;2015;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2015-08-09;2015-08-09
+204970;2015;1;Russia (Soviet Union):Caucasus Emirate;42,7583;46,8412;Russia (Soviet Union);Europe;2015-08-09;2015-08-11
+204971;2015;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2015-08-11;2015-08-12
+204972;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-08-13;2015-08-14
+204973;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-08-13;2015-08-14
+204974;2015;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2015-08-14;2015-08-15
+205044;2015;1;Ukraine:Novorossiya;47,18;37,69;Ukraine;Europe;2015-08-16;2015-08-16
+205045;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-08-16;2015-08-17
+205047;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-16;2015-08-17
+205049;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-08-17;2015-08-17
+205051;2015;1;Ukraine:Novorossiya;48,15;38,65;Ukraine;Europe;2015-08-17;2015-08-18
+205066;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-08-19;2015-08-20
+205571;2015;1;Azerbaijan:Nagorno-Karabakh;41,12081;45,06381;Armenia;Europe;2015-01-17;2015-01-17
+205572;2015;1;Azerbaijan:Nagorno-Karabakh;40,1;46;Azerbaijan;Europe;2015-01-20;2015-01-20
+205574;2015;1;Azerbaijan:Nagorno-Karabakh;40,1;46;Azerbaijan;Europe;2015-01-21;2015-01-21
+205575;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-01-21;2015-01-21
+205576;2015;1;Azerbaijan:Nagorno-Karabakh;40,88135;45,38901;Armenia;Europe;2015-01-23;2015-01-23
+205580;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-01-22;2015-01-22
+205583;2015;1;Azerbaijan:Nagorno-Karabakh;40,2;46,9;Azerbaijan;Europe;2015-02-05;2015-02-05
+205586;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-02-13;2015-02-13
+205615;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-02-21;2015-02-21
+205618;2015;1;Azerbaijan:Nagorno-Karabakh;40,4;46,75;Azerbaijan;Europe;2015-02-28;2015-02-28
+205620;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-03-03;2015-03-03
+205621;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-03-11;2015-03-11
+205623;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-03-13;2015-03-13
+205624;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-03-19;2015-03-19
+205627;2015;1;Azerbaijan:Nagorno-Karabakh;40,2;46,9;Azerbaijan;Europe;2015-03-26;2015-03-26
+205629;2015;1;Azerbaijan:Nagorno-Karabakh;40,4;46,75;Azerbaijan;Europe;2015-03-29;2015-03-29
+205631;2015;1;Azerbaijan:Nagorno-Karabakh;40,4;46,75;Azerbaijan;Europe;2015-04-07;2015-04-07
+205632;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-04-07;2015-04-07
+205633;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-04-16;2015-04-16
+205634;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-06-26;2015-06-26
+205636;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-07-24;2015-07-24
+205637;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-08-12;2015-08-12
+205639;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-08-22;2015-08-22
+205640;2015;1;Azerbaijan:Nagorno-Karabakh;40,916667;45,166667;Armenia;Europe;2015-09-03;2015-09-03
+205643;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-09-04;2015-09-04
+205644;2015;1;Azerbaijan:Nagorno-Karabakh;40,98248;45,36696;Armenia;Europe;2015-09-24;2015-09-24
+205645;2015;1;Azerbaijan:Nagorno-Karabakh;41,20503;44,99967;Armenia;Europe;2015-09-24;2015-09-24
+205647;2015;1;Azerbaijan:Nagorno-Karabakh;40,4;46,75;Azerbaijan;Europe;2015-09-25;2015-09-25
+205648;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-09-27;2015-09-27
+205650;2015;1;Azerbaijan:Nagorno-Karabakh;39,65;47,45;Azerbaijan;Europe;2015-11-12;2015-11-12
+205654;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-11-30;2015-11-30
+205670;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-01-01;2015-01-31
+205674;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-08-01;2015-08-31
+206364;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-19;2015-12-19
+207507;2015;1;Azerbaijan:Nagorno-Karabakh;39,6;47,33;Azerbaijan;Europe;2015-01-02;2015-01-03
+207508;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-01-06;2015-01-06
+207509;2015;1;Azerbaijan:Nagorno-Karabakh;41,10925;45,05658;Armenia;Europe;2015-01-11;2015-01-11
+207510;2015;1;Azerbaijan:Nagorno-Karabakh;39,66667;47;Azerbaijan;Europe;2015-01-31;2015-01-31
+207512;2015;1;Azerbaijan:Nagorno-Karabakh;40,94276;45,43794;Armenia;Europe;2015-02-05;2015-02-05
+207517;2015;1;Azerbaijan:Nagorno-Karabakh;39,983611;46,928611;Azerbaijan;Europe;2015-09-26;2015-09-26
+207521;2015;1;Azerbaijan:Nagorno-Karabakh;40,37663;46,74271;Azerbaijan;Europe;2015-12-04;2015-12-04
+207524;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-05;2015-12-05
+207526;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-07;2015-12-07
+207530;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-09;2015-12-09
+207533;2015;1;Azerbaijan:Nagorno-Karabakh;40,2;46,9;Azerbaijan;Europe;2015-12-11;2015-12-11
+207534;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-14;2015-12-14
+207535;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-16;2015-12-16
+207537;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-17;2015-12-18
+207538;2015;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2015-12-17;2015-12-18
+210197;2015;3;IS - Civilians;48,866667;2,333333;France;Europe;2015-11-13;2015-11-13
+210203;2015;1;Iraq:Government;48,866667;2,333333;France;Europe;2015-11-18;2015-11-18
+211716;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-15;2015-08-21
+211787;2015;1;Russia:Islamic State;43,2678;46,7297;Russia (Soviet Union);Europe;2015-08-24;2015-08-24
+211789;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-25;2015-08-25
+211791;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-26;2015-08-27
+211792;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-28;2015-08-28
+211795;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-09-04;2015-09-04
+211797;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-06-09;2015-08-15
+211799;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-09-10;2015-09-10
+211800;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-09-13;2015-09-14
+211801;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-09-18;2015-09-18
+211802;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-09-19;2015-09-19
+211804;2015;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2015-09-26;2015-09-26
+211914;2015;1;Russia:Islamic State;43,318;45,6982;Russia (Soviet Union);Europe;2015-10-08;2015-10-08
+211916;2015;1;Russia:Islamic State;42,7583;46,8412;Russia (Soviet Union);Europe;2015-10-24;2015-10-24
+211917;2015;1;Russia:Islamic State;42,7583;46,8412;Russia (Soviet Union);Europe;2015-10-10;2015-10-10
+211918;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-10-09;2015-10-10
+211919;2015;1;Russia:Islamic State;43,2275;44,7646;Russia (Soviet Union);Europe;2015-10-31;2015-10-31
+211920;2015;1;Russia:Islamic State;43,2602;44,8414;Russia (Soviet Union);Europe;2015-10-12;2015-10-12
+211921;2015;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2015-10-14;2015-10-14
+211922;2015;1;Ukraine:Novorossiya;48,694329;39,453292;Ukraine;Europe;2015-10-15;2015-10-15
+211923;2015;1;Russia:Islamic State;43,384169;46,761964;Russia (Soviet Union);Europe;2015-10-17;2015-10-17
+211924;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-10-20;2015-10-20
+211925;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-10-27;2015-10-27
+211926;2015;1;Ukraine:Novorossiya;48,075;37,725556;Ukraine;Europe;2015-10-30;2015-10-30
+211927;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-10-31;2015-10-31
+211929;2015;1;Ukraine:Novorossiya;48,572975;39,577325;Ukraine;Europe;2015-11-10;2015-11-10
+211930;2015;1;Ukraine:Novorossiya;47,454601;37,864028;Ukraine;Europe;2015-11-11;2015-11-11
+211931;2015;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2015-11-13;2015-11-13
+211932;2015;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2015-11-13;2015-11-13
+211933;2015;1;Russia:Islamic State;43,4846;43,6071;Russia (Soviet Union);Europe;2015-11-13;2015-11-13
+211934;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-11-14;2015-11-15
+211935;2015;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2015-11-14;2015-11-15
+211936;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-11-15;2015-11-16
+211937;2015;1;Russia:Islamic State;43,4846;43,6071;Russia (Soviet Union);Europe;2015-11-21;2015-11-22
+211938;2015;1;Russia:Islamic State;43,1;46,883333;Russia (Soviet Union);Europe;2015-11-29;2015-11-29
+211940;2015;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2015-12-04;2015-12-04
+211941;2015;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2015-12-06;2015-12-06
+211942;2015;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2015-08-16;2015-12-09
+211943;2015;3;IS - Civilians;42,6185;47,2582;Russia (Soviet Union);Europe;2015-09-30;2015-09-30
+211946;2015;1;Russia:Islamic State;43,2505;46,5851;Russia (Soviet Union);Europe;2015-12-23;2015-12-23
+211947;2015;1;Russia:Islamic State;42,059;48,2908;Russia (Soviet Union);Europe;2015-12-30;2015-12-30
+211949;2015;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2015-12-27;2015-12-27
+230404;2015;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2015-12-01;2015-12-31
+236742;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-06-09;2015-08-15
+236749;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-11-14;2015-11-15
+236750;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-08-16;2015-12-09
+236751;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-08-05;2015-08-06
+236753;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-06-14;2015-06-15
+236754;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-09-18;2015-09-18
+236755;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-09-13;2015-09-14
+236756;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-08-03;2015-08-04
+236757;2015;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2015-06-17;2015-06-18
+218219;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-01-10;2016-01-10
+218220;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-01-09;2016-01-09
+218221;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-01-09;2016-01-10
+218222;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-01-10;2016-01-11
+218224;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-01-18;2016-01-24
+218226;2016;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2016-01-31;2016-01-31
+218227;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-01-31;2016-01-31
+218228;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-02-01;2016-02-01
+218229;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-02-02;2016-02-03
+218230;2016;1;Russia:Islamic State;43,1953;46,8974;Russia (Soviet Union);Europe;2016-02-04;2016-02-04
+218231;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-02-04;2016-02-05
+218232;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-02-01;2016-02-07
+218233;2016;1;Ukraine:Novorossiya;47,853324;37,484174;Ukraine;Europe;2016-02-10;2016-02-10
+218234;2016;1;Russia:Islamic State;42,059;48,2908;Russia (Soviet Union);Europe;2016-02-15;2016-02-15
+218235;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-02-15;2016-02-16
+218638;2016;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2016-02-21;2016-02-21
+218639;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-02-21;2016-02-22
+218641;2016;1;Ukraine:Novorossiya;47,324235;37,555817;Ukraine;Europe;2016-02-26;2016-02-26
+218642;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-02-20;2016-02-26
+218643;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-02-29;2016-03-01
+218644;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-02-28;2016-02-28
+218645;2016;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2016-03-05;2016-03-05
+218646;2016;1;Russia:Islamic State;42,589566;46,675548;Russia (Soviet Union);Europe;2016-03-11;2016-03-11
+218647;2016;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2016-03-12;2016-03-12
+218648;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-03-12;2016-03-12
+218649;2016;1;Ukraine:Novorossiya;48,817931;37,551012;Ukraine;Europe;2016-03-18;2016-03-18
+218719;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-03-19;2016-03-25
+218720;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-03-25;2016-03-26
+218721;2016;1;Russia:Islamic State;60;100;Russia (Soviet Union);Europe;2016-03-29;2016-03-29
+218722;2016;1;Russia:Islamic State;43,1;46,883333;Russia (Soviet Union);Europe;2016-03-30;2016-03-30
+218723;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-03-29;2016-03-30
+218724;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-03-26;2016-04-01
+218725;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-04;2016-04-04
+218726;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-06;2016-04-07
+218728;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-09;2016-04-10
+218729;2016;1;Russia:Islamic State;60;100;Russia (Soviet Union);Europe;2016-04-11;2016-04-11
+218730;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-12;2016-04-13
+218731;2016;1;Russia (Soviet Union):Caucasus Emirate;42,383333;46,966667;Russia (Soviet Union);Europe;2016-04-13;2016-04-14
+218733;2016;1;Ukraine:Novorossiya;48,56;38,51;Ukraine;Europe;2016-04-14;2016-04-14
+218734;2016;1;Ukraine:Novorossiya;48,395599;37,972614;Ukraine;Europe;2016-04-19;2016-04-20
+218750;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-23;2016-04-24
+218752;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-04-27;2016-04-27
+218755;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-23;2016-04-29
+218758;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-29;2016-04-30
+218759;2016;1;Ukraine:Novorossiya;48,435297;38,220482;Ukraine;Europe;2016-04-30;2016-05-01
+218762;2016;1;Russia:Islamic State;60;100;Russia (Soviet Union);Europe;2016-05-03;2016-05-03
+218764;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-04-30;2016-05-06
+218765;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-05-06;2016-05-07
+218766;2016;1;Russia:Islamic State;42,059;48,2908;Russia (Soviet Union);Europe;2016-05-14;2016-05-14
+218767;2016;3;IS - Civilians;42,059;48,2908;Russia (Soviet Union);Europe;2016-05-09;2016-05-09
+225853;2016;1;Ukraine:Novorossiya;48,096377;37,72225;Ukraine;Europe;2016-05-15;2016-05-16
+225855;2016;1;Ukraine:Novorossiya;48,681487;39,190347;Ukraine;Europe;2016-05-16;2016-05-16
+225859;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-05-18;2016-05-19
+225860;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-05-18;2016-05-19
+225861;2016;1;Ukraine:Novorossiya;47,261586;37,784176;Ukraine;Europe;2016-05-18;2016-05-19
+225863;2016;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2016-05-21;2016-05-22
+225865;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-05-23;2016-05-24
+225866;2016;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2016-05-26;2016-05-26
+225867;2016;1;Russia:Islamic State;43,216667;44,766667;Russia (Soviet Union);Europe;2016-05-21;2016-05-21
+225868;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-05-21;2016-05-27
+225869;2016;1;Russia:Islamic State;41,98499;48,22795;Russia (Soviet Union);Europe;2016-05-29;2016-05-29
+225871;2016;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2016-05-28;2016-05-29
+225872;2016;1;Ukraine:Novorossiya;48,096377;37,72225;Ukraine;Europe;2016-05-28;2016-05-29
+225874;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-05-29;2016-05-30
+225875;2016;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2016-05-29;2016-05-30
+225876;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-05-30;2016-06-01
+230409;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-01-14;2016-01-14
+230414;2016;1;Azerbaijan:Nagorno-Karabakh;39,983611;46,928611;Azerbaijan;Europe;2016-03-10;2016-03-10
+230425;2016;1;Azerbaijan:Nagorno-Karabakh;41,26;45,09;Azerbaijan;Europe;2016-03-27;2016-03-27
+230427;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-02
+230431;2016;1;Azerbaijan:Nagorno-Karabakh;40,291874;46,981255;Azerbaijan;Europe;2016-04-02;2016-04-02
+230432;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-02
+230436;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-04;2016-04-04
+230437;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-04
+230438;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-04;2016-04-05
+230440;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-05
+230441;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-06
+230442;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-05;2016-04-06
+230451;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-04-06;2016-04-07
+230454;2016;1;Azerbaijan:Nagorno-Karabakh;40,37663;46,74271;Azerbaijan;Europe;2016-04-08;2016-04-08
+230455;2016;1;Azerbaijan:Nagorno-Karabakh;40,4;46,75;Azerbaijan;Europe;2016-04-08;2016-04-08
+230458;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-08
+230487;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-02;2016-04-05
+230488;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-06;2016-04-14
+230489;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-04-14;2016-04-14
+230492;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-15;2016-04-15
+230494;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-04-19;2016-04-19
+230516;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-04-26;2016-04-26
+230519;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-04-27;2016-04-27
+230529;2016;1;Azerbaijan:Nagorno-Karabakh;40,070579;47,042766;Azerbaijan;Europe;2016-04-28;2016-04-28
+230531;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-05-03;2016-05-03
+230534;2016;1;Azerbaijan:Nagorno-Karabakh;40;46,583333;Azerbaijan;Europe;2016-05-12;2016-05-12
+230539;2016;1;Azerbaijan:Nagorno-Karabakh;39,5444;45,8113;Azerbaijan;Europe;2016-05-14;2016-05-14
+230540;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-05-17;2016-05-17
+230541;2016;1;Azerbaijan:Nagorno-Karabakh;39,65;47,45;Azerbaijan;Europe;2016-05-17;2016-05-17
+230548;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-07-23;2016-07-23
+231091;2016;1;Iraq:Government;50,833333;4,333333;Belgium;Europe;2016-03-15;2016-03-15
+231098;2016;3;IS - Civilians;50,833333;4,333333;Belgium;Europe;2016-03-22;2016-03-22
+231228;2016;3;IS - Civilians;43,713644;7,25952;France;Europe;2016-07-14;2016-07-14
+231235;2016;3;IS - Civilians;49,377941;1,104673;France;Europe;2016-07-26;2016-07-26
+231408;2016;1;Iraq:Government;50,409473;4,452483;Belgium;Europe;2016-08-06;2016-08-06
+232238;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-06-04;2016-06-05
+232239;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-06-08;2016-06-08
+232243;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-06-08;2016-06-09
+232244;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-06-11;2016-06-12
+232246;2016;1;Russia:Islamic State;60;100;Russia (Soviet Union);Europe;2016-06-16;2016-06-17
+232417;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-06-17;2016-06-18
+232418;2016;1;Ukraine:Novorossiya;47,178212;37,722486;Ukraine;Europe;2016-06-18;2016-06-19
+232419;2016;1;Ukraine:Novorossiya;48,45253;38,245772;Ukraine;Europe;2016-06-18;2016-06-19
+232420;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-06-18;2016-06-24
+232421;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-06-24;2016-06-25
+232422;2016;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2016-06-27;2016-06-27
+232615;2016;1;Ukraine:Novorossiya;47,094565;37,815639;Ukraine;Europe;2016-06-28;2016-06-28
+232616;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-06-29;2016-06-29
+232617;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-07-04;2016-07-05
+232730;2016;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2016-07-10;2016-07-10
+232736;2016;1;Ukraine:Novorossiya;48,45253;38,245772;Ukraine;Europe;2016-07-10;2016-07-10
+232739;2016;1;Russia:Islamic State;41,423649;47,847858;Russia (Soviet Union);Europe;2016-07-11;2016-07-11
+232745;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-07-14;2016-07-14
+232746;2016;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2016-07-14;2016-07-14
+232752;2016;1;Ukraine:Novorossiya;48,3;38,05;Ukraine;Europe;2016-07-18;2016-07-19
+232756;2016;1;Ukraine:Novorossiya;48,566667;39,3;Ukraine;Europe;2016-07-18;2016-07-19
+232767;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-07-15;2016-07-22
+232772;2016;1;Ukraine:Novorossiya;48,096377;37,72225;Ukraine;Europe;2016-07-23;2016-07-24
+232775;2016;1;Ukraine:Novorossiya;48,145278;37,745;Ukraine;Europe;2016-07-24;2016-07-25
+232776;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-07-24;2016-07-25
+232778;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-07-27;2016-07-28
+232780;2016;1;Ukraine:Novorossiya;48,127778;37,8625;Ukraine;Europe;2016-08-01;2016-08-01
+233435;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-07-01;2016-07-31
+233437;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-08-02;2016-08-03
+233440;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-08-03;2016-08-03
+233441;2016;1;Ukraine:Novorossiya;48,75;38,8;Ukraine;Europe;2016-08-06;2016-08-07
+233443;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-08-07;2016-08-08
+233444;2016;1;Ukraine:Novorossiya;47,94542;37,617341;Ukraine;Europe;2016-08-08;2016-08-09
+233454;2016;1;Ukraine:Novorossiya;47,94542;37,617341;Ukraine;Europe;2016-08-11;2016-08-12
+233455;2016;1;Russia (Soviet Union):Caucasus Emirate;59,9343;30,3351;Russia (Soviet Union);Europe;2016-08-17;2016-08-17
+233456;2016;1;Russia:Islamic State;55,816667;37,966667;Russia (Soviet Union);Europe;2016-08-17;2016-08-17
+233457;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-08-18;2016-08-18
+233458;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-08-21;2016-08-21
+233651;2016;3;IS - Civilians;52,516667;13,4;Germany;Europe;2016-12-19;2016-12-19
+234646;2016;1;Azerbaijan:Nagorno-Karabakh;40;47;Azerbaijan;Europe;2016-11-13;2016-11-13
+234654;2016;1;Azerbaijan:Nagorno-Karabakh;40,854687;45,57781;Armenia;Europe;2016-12-29;2016-12-29
+235419;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-08-24;2016-08-25
+235421;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-08-27;2016-08-28
+235425;2016;1;Ukraine:Novorossiya;47,588242;37,656933;Ukraine;Europe;2016-09-07;2016-09-07
+235426;2016;1;Ukraine:Novorossiya;47,941669;37,504218;Ukraine;Europe;2016-09-08;2016-09-09
+235427;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-09-12;2016-09-13
+235428;2016;1;Ukraine:Novorossiya;47,095833;37,549444;Ukraine;Europe;2016-09-12;2016-09-13
+235429;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-09-12;2016-09-13
+235434;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-01;2016-10-02
+235435;2016;1;Ukraine:Novorossiya;48,746225;38,870126;Ukraine;Europe;2016-10-02;2016-10-03
+235436;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-04;2016-10-05
+235437;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-05;2016-10-06
+235438;2016;1;Russia:Islamic State;43,2275;44,7646;Russia (Soviet Union);Europe;2016-10-07;2016-10-07
+235439;2016;1;Russia:Islamic State;43,2602;44,8414;Russia (Soviet Union);Europe;2016-10-07;2016-10-07
+235510;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-01;2016-10-07
+235549;2016;1;Russia:Islamic State;43,1;46,883333;Russia (Soviet Union);Europe;2016-06-29;2016-06-29
+235551;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-11;2016-10-11
+235552;2016;1;Russia (Soviet Union):Caucasus Emirate;42,5648;47,565;Russia (Soviet Union);Europe;2016-10-12;2016-10-12
+235553;2016;1;Ukraine:Novorossiya;47,174126;37,814764;Ukraine;Europe;2016-10-12;2016-10-12
+235556;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-08;2016-10-14
+235557;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-10-16;2016-10-16
+235558;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-17;2016-10-18
+235559;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-18;2016-10-19
+235560;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-20;2016-10-21
+235561;2016;1;Russia:Islamic State;56,326944;44;Russia (Soviet Union);Europe;2016-10-23;2016-10-23
+235563;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-21;2016-10-22
+235564;2016;1;Russia:Islamic State;43,3222;45,9952;Russia (Soviet Union);Europe;2016-10-23;2016-10-23
+235579;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-10-27;2016-10-28
+235582;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-10-27;2016-10-28
+235584;2016;1;Ukraine:Novorossiya;48;37,805278;Ukraine;Europe;2016-10-28;2016-10-29
+235609;2016;1;Russia:Islamic State;43,2505;46,5851;Russia (Soviet Union);Europe;2016-11-04;2016-11-04
+235613;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-11-06;2016-11-07
+235615;2016;1;Russia:Islamic State;56,326944;44;Russia (Soviet Union);Europe;2016-11-14;2016-11-14
+235616;2016;1;Ukraine:Novorossiya;48,41955;38,032433;Ukraine;Europe;2016-11-19;2016-11-19
+235620;2016;1;Russia:Islamic State;43,2275;44,7646;Russia (Soviet Union);Europe;2016-11-24;2016-11-24
+235621;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-11-18;2016-11-25
+235622;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-11-25;2016-11-26
+235630;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-11-26;2016-11-27
+235633;2016;1;Russia:Islamic State;42,9849;47,5046;Russia (Soviet Union);Europe;2016-12-04;2016-12-04
+235635;2016;1;Russia:Islamic State;43,318;45,6982;Russia (Soviet Union);Europe;2016-12-18;2016-12-18
+235637;2016;1;Ukraine:Novorossiya;48,333333;38,4;Ukraine;Europe;2016-12-18;2016-12-18
+235641;2016;1;Ukraine:Novorossiya;48,142984;37,825337;Ukraine;Europe;2016-12-28;2016-12-28
+236744;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-10-27;2016-10-28
+236745;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-08-27;2016-08-28
+236746;2016;1;Ukraine:Novorossiya;48,14;37,74;Ukraine;Europe;2016-05-23;2016-05-24
+236747;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-04-29;2016-04-30
+236748;2016;1;Ukraine:Novorossiya;48,92;39,02;Ukraine;Europe;2016-04-23;2016-04-24

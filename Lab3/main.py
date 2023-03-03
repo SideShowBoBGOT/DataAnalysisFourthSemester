@@ -123,6 +123,7 @@ if __name__ == "__main__":
                              f'{df_smallest_mean_average_difference[column_name].values[0]}' \
                              f'{bcolors.ENDC}'
     print(mean_average_info)
+    print(df_region_mean_average.to_string())
 
     # 6 Вивести топ 5 країн та 5 останніх країн по ВВП та кількості СО2 на душу населення.
     dataset_gdp_desc = dataset.sort_values('GDP per capita', ascending=False)[['Country Name', 'GDP per capita']]

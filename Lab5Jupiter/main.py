@@ -48,8 +48,6 @@ for index, pair in enumerate(dependent_pairs):
     ax.plot(np_x, predictions, color='red')
 
 # drop "free sulfur dioxide", "pH", "residual sugar"
-# combine "fixed acidity" and "volatile acidity"
-# drop "volatile acid", "citric acid"
 df = df.drop(["free sulfur dioxide", "pH", "residual sugar"], axis=1)
 
 # graphs projection between factor and quality
@@ -118,9 +116,3 @@ for index, degree in enumerate(range(1, plot_rows + 1)):
         axis[index][i].axline([0, 0], [1, 1], color='red')
 
 plt.show()
-
-
-
-
-
-

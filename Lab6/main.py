@@ -119,14 +119,23 @@ df = df.drop(['Parch', 'SibSp'], axis=1)
 print(df['Ticket'].describe())
 df = df.drop(['Ticket'], axis=1)
 
+# change column types
+for row in df.columns:
+    if df[row].dtype == bool:
+        df[row] = df[row].astype(int)
+
 # plot correlation matrix
 fig, axis = plt.subplots(figsize=(8, 6))
 sns.heatmap(df.corr(numeric_only=True), ax=axis, annot=True)
 
+# plot all correlations
+fig, axis = plt.subplots(figsize=(15, 15))
+pd.plotting.scatter_matrix(df, ax=axis)
+
 
 # plot male-female Age statistic
 fig = sns.FacetGrid(df, hue='Gender', aspect=4)
-fig.map(sns.kdeplot, 'Age', shade=True)
+fig.map(sns.kdeplot, 'Age', fill=True)
 oldest = df['Age'].max()
 fig.set(xlim=(0, oldest))
 fig.add_legend()
@@ -139,21 +148,46 @@ axis.pie(male_female_counts, labels=male_female_counts.index, autopct='%1.1f%%')
 
 
 factors = df.columns.values.tolist()
-factors = [f for f in factors if f not in ['Sex', 'Gender', 'Survived', 'Name', 'Embarked']]
+factors = [f for f in factors if f not in ['Sex', 'Survived', 'Gender', 'Name', 'EmbarkedValue']]
 
 # plot male-female Survival Rate based on Age statistic
-
-fig, axis = plt.subplots(nrows=len(factors), ncols=2, figsize=(10, 8))
 for row, factor in enumerate(factors):
-    for col, el in enumerate(['male', 'female']):
-        ax = axis[row][col]
-        gender = df[df['Sex'] == el]
-        survived_age = gender[gender['Survived'] == 1][factor]
-        dead_age = gender[gender['Survived'] == 0][factor]
-        sns.distplot(survived_age, color='green', bins=18, label='survived', ax=ax, kde=False)
-        sns.distplot(dead_age, color='red', bins=40, label='dead', ax=ax, kde=False)
-        ax.set_title(factor)
-        ax.set_xlabel(el)
+    g = sns.FacetGrid(df[['Sex', 'Survived'] + [factor]], col='Sex', hue='Survived')
+    g.map(sns.histplot, factor)
+    g.add_legend()
+
+
+# clustering
+# kmeans without PCA
+factors.remove('Embarked')
+factors.append('EmbarkedValue')
+kmeans_kwargs = {
+    'init': 'random',
+    'n_init': 10,
+    'max_iter': 300,
+    'random_state': 0,
+}
+sse = []
+max_kernels = 10
+features = df[['Survived'] + factors]
+for k in range(1, max_kernels + 1):
+    kmeans = KMeans(n_clusters=k, **kmeans_kwargs)
+    kmeans.fit(features)
+    sse.append(kmeans.inertia_)
+
+plt.figure(figsize=(10, 8))
+plt.plot(range(1, max_kernels + 1), sse)
+plt.xticks(range(1, max_kernels + 1))
+plt.xlabel('Number of Clusters')
+plt.ylabel('SSE')
+plt.grid(linestyle='--')
+plt.show()
+
+# Elbow point
+kl = KneeLocator(range(1, max_kernels + 1), sse, curve='convex', direction='decreasing')
+print(kl.elbow)
+
+
 
 
 plt.show()

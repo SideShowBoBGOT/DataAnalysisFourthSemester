@@ -11,28 +11,28 @@ from tabulate import tabulate
 from kneed import KneeLocator
 from sklearn.impute import KNNImputer
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans, AgglomerativeClustering
 from sklearn.decomposition import PCA
 import scipy.stats as stats
 from sklearn.linear_model import LinearRegression
 
 
 #correct file
-# with open('data/titanic.csv') as input_file:
-#     with open('data/data_titanic.csv', 'w') as output_file:
-#         lines = []
-#         statuses = []
-#         for index, line in enumerate(input_file):
-#             if index == 0:
-#                 lines.append(line.replace(',', ';'))
-#                 continue
-#             parts = line.split('"')
-#             parts[0] = parts[0].replace(',', ';')
-#             parts[2] = parts[2].replace(',', ';')
-#             statuses.append(parts[1].split(',')[1].split('.')[0].lstrip())
-#             lines.append(''.join(parts))
-#         statuses = list(set(statuses))
-#         output_file.writelines(lines)
+with open('data/titanic.csv') as input_file:
+    with open('data/data_titanic.csv', 'w') as output_file:
+        lines = []
+        statuses = []
+        for index, line in enumerate(input_file):
+            if index == 0:
+                lines.append(line.replace(',', ';'))
+                continue
+            parts = line.split('"')
+            parts[0] = parts[0].replace(',', ';')
+            parts[2] = parts[2].replace(',', ';')
+            statuses.append(parts[1].split(',')[1].split('.')[0].lstrip())
+            lines.append(''.join(parts))
+        statuses = list(set(statuses))
+        output_file.writelines(lines)
 
 # print(statuses)
 
@@ -181,13 +181,46 @@ plt.xticks(range(1, max_kernels + 1))
 plt.xlabel('Number of Clusters')
 plt.ylabel('SSE')
 plt.grid(linestyle='--')
-plt.show()
 
 # Elbow point
 kl = KneeLocator(range(1, max_kernels + 1), sse, curve='convex', direction='decreasing')
 print(kl.elbow)
 
 
+# Set number of clusters to elbow point
 
+kmeans = KMeans(
+    init='random',
+    n_clusters=kl.elbow,
+    n_init=10,
+    max_iter=300,
+    random_state=0
+)
+
+print(kmeans.fit(features))
+print(kmeans.cluster_centers_)
+fig = px.scatter_3d(
+    df, x='Survived', y='Fare', z='Relatives',
+    color=kmeans.labels_, hover_data=['Sex', 'Age', 'EmbarkedValue'],
+    width=1000, height=800,
+    title='Survived-Fare-Relatives KMeans Plot Clusters'
+)
+fig.update(layout_coloraxis_showscale=False)
+fig.show()
+
+# Agglomerative Clustering
+model = AgglomerativeClustering(n_clusters=kl.elbow, affinity='euclidean', linkage='ward')
+clust_labels = model.fit_predict(features)
+agglomerative = pd.DataFrame(clust_labels)
+df.insert((df.shape[1]), 'agglomerative', agglomerative)
+fig = px.scatter_3d(
+    df, x='Survived', y='Fare', z='Relatives',
+    color=df['agglomerative'], hover_data=['Sex', 'Age', 'EmbarkedValue'],
+    width=1000, height=800,
+    title='Survived-Fare-Relatives Agglomerative Plot Clusters'
+)
+fig.update(layout_coloraxis_showscale=False)
+fig.show()
+print(agglomerative)
 
 plt.show()
